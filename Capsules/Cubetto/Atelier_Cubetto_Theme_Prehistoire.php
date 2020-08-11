@@ -585,11 +585,11 @@
 <div class="choix">
 
   <div class="lecon_prece">
-    <a href="#">  <b> < </b> Leçon précédente </a>
+    <a href="Video_intro.php">  <b> < </b> Leçon précédente </a>
   </div>
 
   <div class="lecon_suiv">
-    <a href="#"> Leçon suivante <b> > </b>  </a>
+    <a href="Page_tuto.php"> Leçon suivante <b> > </b>  </a>
   </div>
 
 </div>
