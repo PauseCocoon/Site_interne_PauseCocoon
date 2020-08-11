@@ -1,0 +1,140 @@
+.tabScore {
+  width: 100px;
+  margin: -20px 0;
+  text-align: center;
+  display: block;
+  border: 2px solid #000;
+  padding: 10px 10px;
+  border-radius: 13px;
+}
+
+.tabScore h3{
+  font-family: 'Josefin Sans', sans-serif;
+  border-bottom: 2px solid #edb98f;
+  padding: 5px 0;
+  margin-bottom: 10px;
+}
+
+.tabScore p {
+  font-size: 20px;
+}
+
+#container
+{
+  font-family: 'Josefin Sans', sans-serif;
+	font-size: 18px;
+  width:50%;
+  margin-top: 50px;
+	margin-bottom: 30px;
+  padding: 30px 20px;
+  background-color: #f8f9f9;
+  z-index: 3;
+  border-radius:3px;
+  color: #000;
+  box-shadow: 0 0 10px 0 #999;
+}
+
+#container ul{
+  list-style: none;
+  margin-bottom: 25px;
+}
+
+#container li{
+  margin: 10px 0;
+  font-size: 20px;
+}
+
+#container a{
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+a.start{
+  display: inline-block;
+  color: #fff;
+  background: #edb98f;
+  padding: 6px 10px;
+}
+
+#container #quiz ul
+{
+  padding: 0;
+  margin: 0;
+  max-width: 600px;
+}
+
+#container #quiz ul li
+{
+  background: #f3f3f3;
+  width: 250px;
+  margin: 10px 10px;
+  display: inline-block;
+  padding: 15px;
+}
+
+.quiz-contenu{
+  padding: 20px 0;
+}
+
+.quiz-num {
+  margin-bottom: 35px;
+  height: 4em;
+  width: 4em;
+  background: #008cba;
+  color: #fff;
+  line-height: 4em;
+  border-radius: 4em;
+  font-size: 20px;
+  font-family: Merriweather,serif;
+}
+
+.choix-q{
+  margin: 20px 0;
+}
+
+#btn{
+  text-align: center;
+}
+
+.btnConfirmer{
+  background-color: #edb98f;
+  color: #fff;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 22px;
+  height: 40px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.scores{
+  margin: 30px 0;
+}
+
+.scores p {
+  margin: 10px 0;
+}
+
+.scores .recommencer{
+  background-color: #edb98f;
+  width:230px;
+  font-size: 20px;
+  border-radius: 5px;
+  margin: 20px 0;
+}
+
+.recommencer a{
+  display:block;
+  line-height:50px;
+  text-align:center;
+  vertical-align:middle;
+  text-decoration: none;
+  padding: 0 15px;
+  color: #FFF;
+}
+
+input[type="radio"]{
+    cursor: pointer;
+    padding-left: 10px;
+}

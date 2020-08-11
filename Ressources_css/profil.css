@@ -1,0 +1,58 @@
+.contenu{
+  margin: auto;
+  margin-top: 30px;
+  width: 500px;
+  border: 1px solid #000;
+}
+.monprofil{
+  margin: 20px 0 auto;
+  font-family: Verdana, Arial, sans-serif;
+}
+
+.changeProfil {
+  font-family: 'Josefin Sans', sans-serif;
+  padding: 10px 30px;
+}
+
+.changeProfil p {
+  margin-top: 10px;
+  font-size: 20px;
+  text-align: left;
+}
+
+.formChangeMdp{
+  margin-top: 30px;
+}
+
+.formChangeMdp p {
+  margin: 20px 0;
+}
+.changeMdp{
+  margin-top: 20px;
+  font-weight: 700;
+}
+
+input[type="password"]{
+ margin-top: 6px;
+ height: 25px;
+ width: 200px;
+ background-color: #fff;
+ border-radius: 6px;
+ padding-left: 5px;
+}
+
+#btnConfirmer{
+  text-align: center;
+  margin-top: 40px ;
+}
+
+.btnC{
+  background-color: #edb98f;
+  color: #fff;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 22px;
+  height: 30px;
+  text-align: center;
+  border-radius: 5px;
+  cursor: pointer;
+}

@@ -1,0 +1,79 @@
+.formulairebox{
+  font-family: 'Josefin Sans', sans-serif;
+  width: 500px;
+  height: 400px;
+  margin: 0 auto;
+  margin-top: 70px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  display: flex;
+  box-shadow: 2px 6px 8px #181C1F77;
+  flex-direction: row;
+  justify-content: center;
+  z-index: 3;
+  background-color: white;
+}
+
+
+h1{
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  margin:30px;
+}
+
+
+.formulairebox input[type="text"],.formulairebox input[type="password"]{
+ margin-top: 5px;
+ height: 25px;
+ width: 250px;
+ background-color: #fff;
+ border: none;
+ border-bottom: 1px solid #000;
+ outline: none;
+ padding-left: 5px;
+}
+
+.formulairebox p{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.formulairebox i{
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+.formulairebox .mdp {
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+.mdp a:hover{
+  text-decoration: none;
+}
+
+#btn{
+  text-align: center;
+  margin-top: 40px;
+}
+
+.btnConnexion{
+  background-color: #edb98f;
+  color: #fff;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 22px;
+  height: 40px;
+  width: 290px;
+  text-align: center;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+
+@media screen and (max-width:500px) {
+  .formulairebox{
+    width: 460px;
+    margin: 70px 10px;
+  }

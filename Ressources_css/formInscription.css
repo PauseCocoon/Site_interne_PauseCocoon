@@ -1,0 +1,103 @@
+.inscriptionbox{
+  margin: 0 auto;
+  width: 600px;
+  height: 580px;
+  margin-top: 70px;
+  border: 1px solid #000;
+  box-shadow: 2px 6px 8px #181C1F77;
+  border-radius: 1px;
+  flex-direction: row;
+  justify-content: center;
+  font-family: 'Josefin Sans', sans-serif;
+  z-index: 3;
+  background-color: white;
+}
+
+.formulaireboxInscription{
+  font-family: 'Josefin Sans', sans-serif;
+  width: 600px;
+  height: 500px;
+  margin: 0 auto;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.coteG{
+  width: 400px;
+  margin-left: 50px;
+}
+.coteD {
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0 30px;
+}
+
+.coteD img {
+  margin-top: 140px;
+}
+
+h1{
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  margin: 30px;
+}
+
+
+input[type="text"],input[type="password"]{
+ margin-top: 4px;
+ height: 25px;
+ width: 200px;
+ background-color: #fff;
+ border-radius: 6px;
+ padding-left: 5px;
+}
+
+.formulaireboxInscription p{
+  margin-top: 10px;
+  margin-left: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#btn{
+  text-align: center;
+}
+
+.btnIns{
+  background-color: #edb98f;
+  color: #fff;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 22px;
+  height: 30px;
+  text-align: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+@media screen and (max-width:680px) {
+  .inscriptionbox{
+    width: 460px;
+  }
+
+  .formulaireboxInscription{
+    width: 430px;
+  }
+
+  h1{
+  }
+
+  input[type="text"],input[type="password"]{
+   margin-top: 4px;
+   height: 25px;
+   width: 150px;
+   background-color: #fff;
+   border-radius: 6px;
+   padding-left: 5px;
+  }
+
+  .coteD{
+    padding-right: 20px;
+  }
+}

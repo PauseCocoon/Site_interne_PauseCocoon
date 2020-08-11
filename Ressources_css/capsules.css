@@ -1,0 +1,324 @@
+#progress{
+	background-color: #7391A8;
+	height: 5px;
+	width: 0;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+#imprimerPage{
+  position: absolute;
+  right: 30px;
+  margin-top: 10px;
+}
+
+#imprimerPage i{
+	font-size: 22px;
+  color:#697273;
+	transition: 200ms color ease-out;
+}
+
+#imprimerPage a:hover i{
+  color:#edb98f;
+}
+/*******menu vertical*******/
+
+.menu_vertical{
+	position: absolute;
+	background-color: #f3f3f3;
+	width: 350px;
+	height: 100%;
+	left: -350px;
+	transition:0.4s;
+	z-index: 10;
+}
+
+.menu_vertical #titre_sidebar{
+	text-align: center;
+}
+
+.menu_vertical img{
+	max-width: 350px;
+	height: 180px;
+}
+.menu_vertical #titre_sidebar h2{
+	margin-top: -130px;
+	color: #fff;
+	font-size: 35px;
+	margin-bottom: 100px;
+}
+
+.contenu_sidebar{
+	margin-left: 20px;
+}
+
+.contenu_sidebar #titreMod_sidebar{
+	margin-top: 60px;
+	cursor: pointer;
+	border-bottom: 1px solid #697273;
+}
+
+#titreMod_sidebar  i {
+	cursor: pointer;
+	margin-right: 8px;
+	font-size: 18px;
+	color: #697273;
+ }
+
+/******* bloc capsules*******/
+
+.box {
+	display: flex;
+	flex-direction: column;
+	visibility: visible;
+}
+
+.cell{
+	margin-top: 25px;
+}
+
+.cell a{
+	color: #000;
+	font-weight: 600;
+	text-decoration: none;
+	margin-top: 20px;
+	font-size: 12px
+}
+
+.cell i {
+	margin-right: 8px;
+	font-size: 18px;
+	color: #697273;
+ }
+.cell a:hover i{
+	color: #edb98f;
+}
+
+.cell a:hover{
+	color: #edb98f;
+}
+
+/**** côté droit****/
+#contenu_droite {
+	position: absolute;
+	display: block;
+	width: 100%;
+	height: 100%;
+	margin-top: 20px;
+}
+
+#contenu_droite .numlecon{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#contenu_droite h2{
+	font-size: 35px;
+	margin: 20px 0;
+}
+
+.btn{
+	position: absolute;
+  display: block;
+	cursor: pointer;
+	top: 65px;
+	left: 20px;
+	font-size: 25px;
+	z-index: 10;
+}
+
+.trait{
+	width: 80%;
+	border-bottom:3px solid #edb98f;
+	margin-bottom: 50px;
+	margin-top: 30px;
+}
+
+.contenu_page {
+	position: relative;
+	width: 550px;
+	height: 600px;
+	margin: 30px 130px auto;
+}
+
+.contenu_page p {
+	font-size: 18px;
+}
+
+video{
+	width: 600px;
+	text-align: center;
+}
+
+.suiv{
+	font-size: 18px;
+	margin-top: 30px;
+}
+
+div.choix{
+	display: flex;
+	flex-direction: row;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	justify-content: center;
+}
+
+.choix .lecon_prece{
+	margin-right: 35px;
+}
+
+.choix a {
+	text-decoration: none;
+	color: #000;
+}
+
+.choix .lecon_prece:hover a{
+	text-decoration: underline;
+}
+
+.choix .lecon_suiv:hover a {
+	text-decoration: underline;
+}
+
+#slider {
+	position: relative;
+	width: 650px;
+	height: 300px;
+	margin: 60px 130px;
+	box-shadow: 0px 0px 5px 2px;
+}
+
+#slider_box img{
+	width: 100%;
+	height: 300px;
+
+}
+
+button{
+	position: absolute;
+	top:45%;
+	left:0%;
+	cursor: pointer;
+	border: none;
+	padding: 10px;
+	background: #edb98f;
+	font-size: 25px;
+	color: #fff;
+}
+
+.next{
+	margin-left: 618px;
+}
+
+@media screen and (max-width:850px){
+  #slider{
+    margin:0 20px;
+    width: 400px;
+  }
+
+  .next{
+    margin-left: 368px;
+  }
+}
+
+.listPoint{
+  margin: 0 20px;
+}
+
+.listPoint h3{
+	margin-bottom: 15px;
+	margin-top: 55px;
+}
+
+.contenu_texte{
+	display: flex;
+	flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1800px;
+  margin: 0 20px;
+}
+
+.contenu_texte .image img{
+	width: 200px;
+	height: 180px;
+	box-shadow: 0px 0px 4px 2px;
+}
+
+.contenu_texte .image_droite img{
+	width: 200px;
+	height: 180px;
+	display: inline;
+	box-shadow: 0px 0px 4px 2px;
+}
+
+.texte p {
+	font-size: 18px;
+	text-align: justify;
+  max-width: 1000px;
+  padding: 0 30px;
+}
+
+.texteg p, .texted p {
+  display: flex;
+  flex-wrap: wrap;
+	font-size: 18px;
+	text-align: justify;
+  margin: 20px 0;
+  max-width: 1000px;
+  padding: 0 30px;
+
+}
+
+
+.haut {
+	display: none;
+	position: fixed;
+	text-align: right;
+  right: 100px;
+	top :85%;
+	right: 2%;
+	z-index: 1;
+	cursor: pointer;
+}
+
+ .haut i {
+  display: inline-flex;
+  width: 50px;
+  height: 50px;
+  margin: 20px 5px;
+  font-size: 30px;
+  text-decoration: none;
+  background-color: #82a6b9a3;
+  color:#697273;
+	box-shadow: 2px 6px 8px #181C1F77;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  transition: 250ms background-color ease-out, 350ms color ease-out;
+}
+
+.haut i:hover {
+  background-color: #edb98f; #/*181c1fFF;*/
+	box-shadow: 2px 6px 8px #181C1F77;
+  color: #fff;
+}
+
+/* Scratch*/
+#presentationScratch{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  max-width: 1300px;
+}
+
+#presentationScratch img{
+  width: 200px;
+  margin: 0 50px;
+}
+
+#textePresentation{
+  width: 800px;
+  margin: 0 20px;
+}
