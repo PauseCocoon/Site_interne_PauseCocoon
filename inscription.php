@@ -34,10 +34,10 @@ if (isset($_POST['submit'])){
               'email' => $email,
               'mdp' => $hashmdp,
             ));
-            $erreur = 'Inscription réuissie vous pouvez vous connecter';
+            $erreur = 'Inscription réussite vous pouvez vous connecter';
           }// fin if (mdp==mdp2)
           else {
-            $erreur = "Les mots de passes ne sont ne correspondent pas";
+            $erreur = "Les mots de passe ne correspondent pas";
           }
         }// fin if(!$res)
         else {
