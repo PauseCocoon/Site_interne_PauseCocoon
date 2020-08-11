@@ -21,7 +21,7 @@
         <i class="fas fa-ellipsis-h"></i>
       </label>
       <ul class = "menu">
-        <a href="accueil.php"> Accueil </a>
+        <a href="index.php"> Accueil </a>
         <a href="inscription.php"> Inscription </a>
         <a href="connexion.php"> Connexion</a>
         <label class="hide-menutbn" for="check">
