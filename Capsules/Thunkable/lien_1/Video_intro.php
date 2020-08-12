@@ -4,7 +4,7 @@
 
 <head>
 
-  <title> Scratch_Junior | Pause Cocoon </title>
+  <title> Thunkable | Pause Cocoon </title>
   <link rel="stylesheet" type="text/css" href="../../../Ressources_css/cubetto_prehistoire.css">
   <link rel="stylesheet" type="text/css" href="../../Ressources_css/css.css">
   <link rel="stylesheet" type="text/css" href="../../../Ressources_css/menunavigation.css">
@@ -21,7 +21,7 @@
 
         <div class="container">
 
-          <iframe src="https://www.youtube.com/embed/ZM8zciUN6Yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="1182" height="665" src="https://www.youtube.com/embed/OJAmgDQjS4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
           <p>XXX</p><br>
           <p>XXX</p>
@@ -33,7 +33,7 @@
         <div class="choix">
 
           <div class="lecon_suiv">
-            <a href="Atelier_Scratch_Junior.php"> Leçon suivante <b> > </b>  </a>
+            <a href="Atelier_Thunkable.php"> Leçon suivante <b> > </b>  </a>
           </div>
 
         </div>

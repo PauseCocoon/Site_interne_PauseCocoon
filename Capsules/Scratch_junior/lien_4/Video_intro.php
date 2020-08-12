@@ -33,7 +33,7 @@
         <div class="choix">
 
           <div class="lecon_suiv">
-            <a href="Atelier_Cubetto_Theme_Prehistoire.php"> Leçon suivante <b> > </b>  </a>
+            <a href="Atelier_Scratch_Junior.php"> Leçon suivante <b> > </b>  </a>
           </div>
 
         </div>
