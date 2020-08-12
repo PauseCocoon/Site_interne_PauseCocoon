@@ -1,5 +1,5 @@
 <?php
-echo'
+echo '
 <link rel="stylesheet" type="text/css" href="../Ressources_css/menunavigation.css">
 
 <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
@@ -17,15 +17,14 @@ echo'
 <i class="fas fa-ellipsis-h"></i>
 </label>
 <ul class = "menu">
-<a href="../accueilPerso.php"> <i class="fas fa-home"></i> Accueil </a>
-<a href=""> <i class="fas fa-user"></i> Mon profil </a>
-<a href="../annuaire.php">  Annuaire </a>
-<a href="../deconnexion.php"> <i class="fas fa-power-off"></i> Déconnexion </a>
-<label class="hide-menutbn" for="check">
-<i class="fas fa-times"></i>
-</label>
-</ul>
+      <a href="../../accueilPerso.php"> <i class="fas fa-home"></i> Accueil </a>
+      <a href=""> <i class="fas fa-user"></i> Mon profil </a>
+      <a href="../../annuaire.php">  Annuaire </a>
+      <a href="../../deconnexion.php"> <i class="fas fa-power-off"></i> Déconnexion </a>
+      <label class="hide-menutbn" for="check">
+        <i class="fas fa-times"></i>
+      </label>
+    </ul>
 </div>
 
 <div id="pageaImprimer"> </div>';
-?>
