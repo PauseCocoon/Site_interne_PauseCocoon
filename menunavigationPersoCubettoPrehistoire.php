@@ -23,3 +23,4 @@ echo '
     </ul>
 </div>
 <div id="pageaImprimer"> </div>';
+?>
