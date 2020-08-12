@@ -4,19 +4,19 @@
 
 <head>
 
-  <title> A propos de Scratch </title>
-  <link rel="stylesheet" type="text/css" href="../../Ressources_css/cubetto_prehistoire.css">
-  <link rel="stylesheet" type="text/css" href="../Ressources_css/css.css">
-  <link rel="stylesheet" type="text/css" href="../../Ressources_css/menunavigation.css">
+  <title> Programmer avec Scratch 1 </title>
+  <link rel="stylesheet" type="text/css" href="../../../Ressources_css/cubetto_prehistoire.css">
+  <link rel="stylesheet" type="text/css" href="../../Ressources_css/css.css">
+  <link rel="stylesheet" type="text/css" href="../../../Ressources_css/menunavigation.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css" integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous">
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"/> </script>
-  <?php include'../../menunavigationPersoCubettoPrehistoire.php';?>
+  <?php include'../../../menunavigationPersoScratch_Junior.php';?>
 
   <div id="pageaImprimer">
     <center>
 
       <div id="contenu_droite">
-        <h2> Programmer avec Scratch </h2>
+        <h2> Programmer avec Scratch 1</h2>
         <div class="trait"> </div>
 
         <div class="container">
@@ -30,7 +30,7 @@
                   <button class="btn btn-block text-left text-dark" type="button" data-toggle="collapse"
                   data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                   <!-- Titre du premier point -->
-                  1. Impression de 8 exemplaires du collier préhistorique des enfants
+                  XXX
                 </button>
               </h2>
             </div>
@@ -41,7 +41,7 @@
 
               <!-- Texte introductif -->
               <p class="text-left">
-                Pour pouvoir réaliser les impressions des exemplaires des coliers préhistoriques, il faudra:
+               XXX
               </p>
               <!-- Fin Texte introductif -->
 
@@ -50,23 +50,23 @@
                 <!-- Tâche 1 & Image 1 -->
                 <li class="list-group-item text-left">
                   <!-- Texte -->
-                  -  d'une carte sd contenant les différentes impressions à réaliser<br>
+                  XXX<br>
                   <!-- Image-->
-                  <img class="mt-4" src="../../images/Parfum1.jpg" style="width: 18rem;">
+                  <img class="mt-4" src="../../../images/Parfum1.jpg" style="width: 18rem;">
                 </li>
                 <!--Fin Tâche 1 & Image 1 -->
 
                 <!-- Tâche 2 & Image 2 -->
                 <li class="list-group-item text-left">
-                 -  d'une carte sd contenant les différentes impressions à réaliser<br>
-                 <img class="mt-4" src="../../images/Science1.jpg" style="width: 18rem;">
+                 XXX<br>
+                 <img class="mt-4" src="../../../images/Science1.jpg" style="width: 18rem;">
                </li>
                <!-- Fin Tâche 2 & Image 2 -->
 
                <!-- Tâche 3 & Image 3 -->
                <li class="list-group-item text-left">
-                 -  d'une carte sd contenant les différentes impressions à réaliser<br>
-                 <img class="mt-4" src="../../images/3D2.jpg" style="width: 18rem;">
+                 XXX<br>
+                 <img class="mt-4" src="../../../images/3D2.jpg" style="width: 18rem;">
                </li>
                <!-- Fin Tâche 3 & Image 3 -->
              </ul>
@@ -84,7 +84,7 @@
             data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false"
             aria-controls="collapseTwo">
             <!-- Titre du deuxième point -->
-            2. Impression de 8 exemplaires du T-Rex
+            XXX
           </button>
         </h2>
       </div>
@@ -92,7 +92,7 @@
         <div class="card-body">
 
          <!-- Texte introductif -->
-         <p class="text-left"> Il faut suivre le modèle et le dupliquer suivant les schémas précédents
+         <p class="text-left"> XXX
          </p>
 
          <!-- Fin Texte introductif -->
@@ -102,23 +102,23 @@
           <!-- Tâche 1 & Image 1 -->
           <li class="list-group-item text-left">
             <!-- Texte -->
-            -  d'une carte sd contenant les différentes impressions à réaliser<br>
+            XXX<br>
             <!-- Image-->
-            <img class="mt-4" src="../../images/3D1.jpg" style="width: 18rem;">
+            <img class="mt-4" src="../../../images/3D1.jpg" style="width: 18rem;">
           </li>
           <!--Fin Tâche 1 & Image 1 -->
 
           <!-- Tâche 2 & Image 2 -->
           <li class="list-group-item text-left">
-           -  d'une carte sd contenant les différentes impressions à réaliser<br>
-           <img class="mt-4" src="../../images/3D3.jpg" style="width: 18rem;">
+           XXX<br>
+           <img class="mt-4" src="../../../images/3D3.jpg" style="width: 18rem;">
          </li>
          <!-- Fin Tâche 2 & Image 2 -->
 
          <!-- Tâche 3 & Image 3 -->
          <li class="list-group-item text-left">
-           -  d'une carte sd contenant les différentes impressions à réaliser<br>
-           <img class="mt-4" src="../../images/3D4.jpg" style="width: 18rem;">
+           XXX<br>
+           <img class="mt-4" src="../../../images/3D4.jpg" style="width: 18rem;">
          </li>
          <!-- Fin Tâche 3 & Image 3 -->
        </ul>
@@ -135,7 +135,7 @@
       data-toggle="collapse" data-target="#collapseThree" aria-expanded="false"
       aria-controls="collapseThree">
       <!-- Titre du troisième point -->
-      3. Impression de 8 exemplaires du Styracosaure
+      XXX
     </button>
   </h2>
 </div>
@@ -143,7 +143,7 @@
   <div class="card-body">
 
    <!-- Texte introductif -->
-   <p class="text-left"> Pour pouvoir réaliser les impressions des exemplaires des coliers préhistoriques, il vous faudra:
+   <p class="text-left">XXX
    </p>
 
    <!-- Fin Texte introductif -->
@@ -153,23 +153,23 @@
     <!-- Tâche 1 & Image 1 -->
     <li class="list-group-item text-left">
       <!-- Texte -->
-      -  d'une carte sd contenant les différentes impressions à réaliser<br>
+      XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../images/3D4.jpg" style="width: 18rem;">
+      <img class="mt-4" src="../../../images/3D4.jpg" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
-     -  d'une carte sd contenant les différentes impressions à réaliser<br>
-     <img class="mt-4" src="../../images/3D6.JPG" style="width: 18rem;">
+     XXX<br>
+     <img class="mt-4" src="../../../images/3D6.JPG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 2 & Image 2 -->
 
    <!-- Tâche 3 & Image 3 -->
    <li class="list-group-item text-left">
-     -  d'une carte sd contenant les différentes impressions à réaliser<br>
-     <img class="mt-4" src="../../images/3D5.jpg" style="width: 18rem;">
+    XXX<br>
+     <img class="mt-4" src="../../../images/3D5.jpg" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
  </ul>
@@ -187,15 +187,48 @@
       data-toggle="collapse" data-target="#collapseFour" aria-expanded="false"
       aria-controls="collapseFour">
       <!--Titre de 4ème point-->
-      4. Impression de 8 exemplaires du Triceratops
+      XXX
     </button>
   </h2>
 </div>
 <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
   <div class="card-body">
     <!--On sélectionne toute la ligne qui suit et on la remplace par ce qu'on a copié plus haut -->
-    <p>Ici nous avons les détails de la quatrième étape</p>
+    <p>XXX</p>
+    <ul class="list-group list-group-flush">
 
+    <!-- Tâche 1 & Image 1 -->
+    <li class="list-group-item text-left">
+      <!-- Texte -->
+      XXX<br>
+      <!-- Image-->
+      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+    </li>
+    <!--Fin Tâche 1 & Image 1 -->
+
+    <!-- Tâche 2 & Image 2 -->
+    <li class="list-group-item text-left">
+      XXX<br>
+      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+    </li>
+    <!-- Fin Tâche 2 & Image 2 -->
+
+    <!-- Tâche 3 & Image 3 -->
+    <li class="list-group-item text-left">
+     XXX<br>
+     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+   </li>
+   <!-- Fin Tâche 3 & Image 3 -->
+
+   <!-- Tâche 4 & Image 4 -->
+   <li class="list-group-item text-left">
+    <!--  texte -->
+    XXX<br>
+    <!-- Image-->
+    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+  </li>
+  <!--Fin Tâche 4 & Image 4 -->
+</ul>
   </div>
 </div>
 </div>
@@ -210,13 +243,47 @@
       <button class="btn nav-link btn-block text-left text-dark collapsed" type="button"
       data-toggle="collapse" data-target="#collapseFive" aria-expanded="false"
       aria-controls="collapseFive">
-      5. Impression de 8 exemplaires du Ptéranodon
+     XXX
     </button>
   </h2>
 </div>
 <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
   <div class="card-body">
-    <p>Ici nous avons les détails de la cinquième étape</p>
+    <p>XXX</p>
+  <ul class="list-group list-group-flush">
+
+    <!-- Tâche 1 & Image 1 -->
+    <li class="list-group-item text-left">
+      <!-- Texte -->
+      XXX<br>
+      <!-- Image-->
+      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+    </li>
+    <!--Fin Tâche 1 & Image 1 -->
+
+    <!-- Tâche 2 & Image 2 -->
+    <li class="list-group-item text-left">
+      XXX<br>
+      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+    </li>
+    <!-- Fin Tâche 2 & Image 2 -->
+
+    <!-- Tâche 3 & Image 3 -->
+    <li class="list-group-item text-left">
+     XXX<br>
+     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+   </li>
+   <!-- Fin Tâche 3 & Image 3 -->
+
+   <!-- Tâche 4 & Image 4 -->
+   <li class="list-group-item text-left">
+    <!--  texte -->
+    XXX<br>
+    <!-- Image-->
+    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+  </li>
+  <!--Fin Tâche 4 & Image 4 -->
+</ul>
   </div>
 </div>
 </div>
@@ -231,13 +298,47 @@
       <button class="btn nav-link btn-block text-left text-dark collapsed" type="button"
       data-toggle="collapse" data-target="#collapseSix" aria-expanded="false"
       aria-controls="collapseSix">
-      6. Récupérer les boites de Cubetto
+      XXX
     </button>
   </h2>
 </div>
 <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
   <div class="card-body">
-    <p>Ici nous avons les détails de la sixième étape</p>
+    <p>XXX</p>
+  <ul class="list-group list-group-flush">
+
+    <!-- Tâche 1 & Image 1 -->
+    <li class="list-group-item text-left">
+      <!-- Texte -->
+      XXX<br>
+      <!-- Image-->
+      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+    </li>
+    <!--Fin Tâche 1 & Image 1 -->
+
+    <!-- Tâche 2 & Image 2 -->
+    <li class="list-group-item text-left">
+      XXX<br>
+      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+    </li>
+    <!-- Fin Tâche 2 & Image 2 -->
+
+    <!-- Tâche 3 & Image 3 -->
+    <li class="list-group-item text-left">
+     XXX<br>
+     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+   </li>
+   <!-- Fin Tâche 3 & Image 3 -->
+
+   <!-- Tâche 4 & Image 4 -->
+   <li class="list-group-item text-left">
+    <!--  texte -->
+    XXX<br>
+    <!-- Image-->
+    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+  </li>
+  <!--Fin Tâche 4 & Image 4 -->
+</ul>
   </div>
 </div>
 </div>
@@ -250,13 +351,47 @@
       <button class="btn nav-link btn-block text-left text-dark collapsed" type="button"
       data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false"
       aria-controls="collapseSeven">
-      7. Vérifier le bon fonctionnement de la tablette et du robot Cubetto de chaque boite
+      XXX
     </button>
   </h2>
 </div>
 <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
   <div class="card-body">
-    <p>Ici nous avons les détails de la 7ème étape</p>
+    <p>XXX</p>
+  <ul class="list-group list-group-flush">
+
+    <!-- Tâche 1 & Image 1 -->
+    <li class="list-group-item text-left">
+      <!-- Texte -->
+      XXX<br>
+      <!-- Image-->
+      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+    </li>
+    <!--Fin Tâche 1 & Image 1 -->
+
+    <!-- Tâche 2 & Image 2 -->
+    <li class="list-group-item text-left">
+      XXX<br>
+      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+    </li>
+    <!-- Fin Tâche 2 & Image 2 -->
+
+    <!-- Tâche 3 & Image 3 -->
+    <li class="list-group-item text-left">
+     XXX<br>
+     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+   </li>
+   <!-- Fin Tâche 3 & Image 3 -->
+
+   <!-- Tâche 4 & Image 4 -->
+   <li class="list-group-item text-left">
+    <!--  texte -->
+    XXX<br>
+    <!-- Image-->
+    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+  </li>
+  <!--Fin Tâche 4 & Image 4 -->
+</ul>
   </div>
 </div>
 </div>
@@ -271,13 +406,47 @@
       <button class="btn nav-link btn-block text-left text-dark collapsed" type="button"
       data-toggle="collapse" data-target="#collapseEight" aria-expanded="false"
       aria-controls="collapseEight">
-      8. Remplacer les piles si nécessaires
+      XXX
     </button>
   </h2>
 </div>
 <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionExample">
   <div class="card-body">
-    <p>Ici nous avons les détails de la 8ème étape</p>
+    <p>XXX</p>
+  <ul class="list-group list-group-flush">
+
+    <!-- Tâche 1 & Image 1 -->
+    <li class="list-group-item text-left">
+      <!-- Texte -->
+      XXX<br>
+      <!-- Image-->
+      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+    </li>
+    <!--Fin Tâche 1 & Image 1 -->
+
+    <!-- Tâche 2 & Image 2 -->
+    <li class="list-group-item text-left">
+      XXX<br>
+      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+    </li>
+    <!-- Fin Tâche 2 & Image 2 -->
+
+    <!-- Tâche 3 & Image 3 -->
+    <li class="list-group-item text-left">
+     XXX<br>
+     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+   </li>
+   <!-- Fin Tâche 3 & Image 3 -->
+
+   <!-- Tâche 4 & Image 4 -->
+   <li class="list-group-item text-left">
+    <!--  texte -->
+    XXX<br>
+    <!-- Image-->
+    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+  </li>
+  <!--Fin Tâche 4 & Image 4 -->
+</ul>
   </div>
 </div>
 </div>
@@ -291,13 +460,47 @@
       <button class="btn nav-link btn-block text-left text-dark collapsed" type="button"
       data-toggle="collapse" data-target="#collapseNine" aria-expanded="false"
       aria-controls="collapseNine">
-      9. Recenser et répartir le même nombre de pièces pour chaque enfants
+      XXX
     </button>
   </h2>
 </div>
 <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionExample">
   <div class="card-body">
-    <p>Ici nous avons les détails de la 9me étape</p>
+    <p>XXX</p>
+  <ul class="list-group list-group-flush">
+
+    <!-- Tâche 1 & Image 1 -->
+    <li class="list-group-item text-left">
+      <!-- Texte -->
+      XXX<br>
+      <!-- Image-->
+      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+    </li>
+    <!--Fin Tâche 1 & Image 1 -->
+
+    <!-- Tâche 2 & Image 2 -->
+    <li class="list-group-item text-left">
+      XXX<br>
+      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+    </li>
+    <!-- Fin Tâche 2 & Image 2 -->
+
+    <!-- Tâche 3 & Image 3 -->
+    <li class="list-group-item text-left">
+     XXX<br>
+     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+   </li>
+   <!-- Fin Tâche 3 & Image 3 -->
+
+   <!-- Tâche 4 & Image 4 -->
+   <li class="list-group-item text-left">
+    <!--  texte -->
+    XXX<br>
+    <!-- Image-->
+    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+  </li>
+  <!--Fin Tâche 4 & Image 4 -->
+</ul>
   </div>
 </div>
 </div>
@@ -310,14 +513,14 @@
       <button class="btn nav-link btn-block text-left text-dark collapsed" type="button"
       data-toggle="collapse" data-target="#collapseTen" aria-expanded="false"
       aria-controls="collapseTen">
-      10. Mettre 8 parcours de cubetto enfant
+      XXX
     </button>
   </h2>
 </div>
 <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordionExample">
   <div class="card-body">
     <!-- Texte introductif -->
-    <p class="text-left"> Pour pouvoir réaliser les impressions des exemplaires des coliers préhistoriques, il vous faudra:
+    <p class="text-left"> XXX
     </p>
 
     <!-- Fin Texte introductif -->
@@ -327,32 +530,32 @@
       <!-- Tâche 1 & Image 1 -->
       <li class="list-group-item text-left">
         <!-- Texte -->
-        -  d'une carte sd contenant les différentes impressions à réaliser<br>
+        XXX<br>
         <!-- Image-->
-        <img class="mt-4" src="../../images/Fondecran1.PNG" style="width: 18rem;">
+        <img class="mt-4" src="../../../images/Fondecran1.PNG" style="width: 18rem;">
       </li>
       <!--Fin Tâche 1 & Image 1 -->
 
       <!-- Tâche 2 & Image 2 -->
       <li class="list-group-item text-left">
-       -  d'une carte sd contenant les différentes impressions à réaliser<br>
-       <img class="mt-4" src="../../images/Scratch1.jpg" style="width: 18rem;">
+       XXX<br>
+       <img class="mt-4" src="../../../images/Scratch1.jpg" style="width: 18rem;">
      </li>
      <!-- Fin Tâche 2 & Image 2 -->
 
      <!-- Tâche 3 & Image 3 -->
      <li class="list-group-item text-left">
-       -  d'une carte sd contenant les différentes impressions à réaliser<br>
-       <img class="mt-4" src="../../images/3D5.jpg" style="width: 18rem;">
+      XXX<br>
+       <img class="mt-4" src="../../../images/3D5.jpg" style="width: 18rem;">
      </li>
      <!-- Fin Tâche 3 & Image 3 -->
 
      <!-- Tâche 4 & Image 4 -->
      <li class="list-group-item text-left">
       <!-- Texte -->
-      -  tâche 4<br>
+      XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../images/Parfum2.jpg" style="width: 18rem;">
+      <img class="mt-4" src="../../../images/Parfum2.jpg" style="width: 18rem;">
     </li>
     <!--Fin Tâche 4 & Image 4 -->
   </ul>
@@ -368,13 +571,47 @@
       <button class="btn nav-link btn-block text-left text-dark collapsed" type="button"
       data-toggle="collapse" data-target="#collapse11" aria-expanded="false"
       aria-controls="collapse11">
-      11. Mettre chaque tablette Cubetto et le robot associé sur chaque parcours
+      XXX
     </button>
   </h2>
 </div>
 <div id="collapse11" class="collapse" aria-labelledby="heading11" data-parent="#accordionExample">
   <div class="card-body">
-    <p>Ici nous avons les détails de la 11ème étape</p>
+    <p>XXX</p>
+  <ul class="list-group list-group-flush">
+
+    <!-- Tâche 1 & Image 1 -->
+    <li class="list-group-item text-left">
+      <!-- Texte -->
+      XXX<br>
+      <!-- Image-->
+      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+    </li>
+    <!--Fin Tâche 1 & Image 1 -->
+
+    <!-- Tâche 2 & Image 2 -->
+    <li class="list-group-item text-left">
+      XXX<br>
+      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+    </li>
+    <!-- Fin Tâche 2 & Image 2 -->
+
+    <!-- Tâche 3 & Image 3 -->
+    <li class="list-group-item text-left">
+     XXX<br>
+     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+   </li>
+   <!-- Fin Tâche 3 & Image 3 -->
+
+   <!-- Tâche 4 & Image 4 -->
+   <li class="list-group-item text-left">
+    <!--  texte -->
+    XXX<br>
+    <!-- Image-->
+    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+  </li>
+  <!--Fin Tâche 4 & Image 4 -->
+</ul>
   </div>
 </div>
 </div>
@@ -387,15 +624,47 @@
       <button class="btn nav-link btn-block text-left text-dark collapsed" type="button"
       data-toggle="collapse" data-target="#collapse12" aria-expanded="false"
       aria-controls="collapse12">
-      12. Aligner le même nombre de pièces à coter de chaque tablette sur chaque parcours
+      XXX
     </button>
   </h2>
 </div>
 <div id="collapse12" class="collapse" aria-labelledby="heading12" data-parent="#accordionExample">
   <div class="card-body">
+    <p>XXX</p>
+  <ul class="list-group list-group-flush">
 
-    <p>Ici nous avons les détails de la 12ème étape</p>
+    <!-- Tâche 1 & Image 1 -->
+    <li class="list-group-item text-left">
+      <!-- Texte -->
+      XXX<br>
+      <!-- Image-->
+      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+    </li>
+    <!--Fin Tâche 1 & Image 1 -->
 
+    <!-- Tâche 2 & Image 2 -->
+    <li class="list-group-item text-left">
+      XXX<br>
+      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+    </li>
+    <!-- Fin Tâche 2 & Image 2 -->
+
+    <!-- Tâche 3 & Image 3 -->
+    <li class="list-group-item text-left">
+     XXX<br>
+     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+   </li>
+   <!-- Fin Tâche 3 & Image 3 -->
+
+   <!-- Tâche 4 & Image 4 -->
+   <li class="list-group-item text-left">
+    <!--  texte -->
+    XXX<br>
+    <!-- Image-->
+    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+  </li>
+  <!--Fin Tâche 4 & Image 4 -->
+</ul>
   </div>
 </div>
 </div>
@@ -409,13 +678,47 @@
       <button class="btn nav-link btn-block text-left text-dark collapsed" type="button"
       data-toggle="collapse" data-target="#collapse13" aria-expanded="false"
       aria-controls="collapse13">
-      13. Mettre les impressions sur chaque parcours et les couvrir d'un gobelet
+     XXX
     </button>
   </h2>
 </div>
 <div id="collapse13" class="collapse" aria-labelledby="heading13" data-parent="#accordionExample">
   <div class="card-body">
-    <p>Ici nous avons les détails de la 13ème étape</p>
+    <p>XXX</p>
+  <ul class="list-group list-group-flush">
+
+    <!-- Tâche 1 & Image 1 -->
+    <li class="list-group-item text-left">
+      <!-- Texte -->
+      XXX<br>
+      <!-- Image-->
+      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+    </li>
+    <!--Fin Tâche 1 & Image 1 -->
+
+    <!-- Tâche 2 & Image 2 -->
+    <li class="list-group-item text-left">
+      XXX<br>
+      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+    </li>
+    <!-- Fin Tâche 2 & Image 2 -->
+
+    <!-- Tâche 3 & Image 3 -->
+    <li class="list-group-item text-left">
+     XXX<br>
+     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+   </li>
+   <!-- Fin Tâche 3 & Image 3 -->
+
+   <!-- Tâche 4 & Image 4 -->
+   <li class="list-group-item text-left">
+    <!--  texte -->
+    XXX<br>
+    <!-- Image-->
+    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+  </li>
+  <!--Fin Tâche 4 & Image 4 -->
+</ul>
   </div>
 </div>
 </div>
@@ -429,14 +732,14 @@
       <button class="btn nav-link btn-block text-left text-dark collapsed" type="button"
       data-toggle="collapse" data-target="#collapse14" aria-expanded="false"
       aria-controls="collapse14">
-      14. Accueil des parents et des enfants
+      XXX
     </button>
   </h2>
 </div>
 <div id="collapse14" class="collapse" aria-labelledby="heading14" data-parent="#accordionExample">
   <div class="card-body">
    <!-- Texte introductif -->
-   <p class="text-left"> Pour pouvoir accueillir les parents et enfants, il vous faudra:
+   <p class="text-left"> XXX
    </p>
 
    <!-- Fin Texte introductif -->
@@ -446,32 +749,32 @@
     <!-- Tâche 1 & Image 1 -->
     <li class="list-group-item text-left">
       <!-- Texte -->
-      -  Se doter d'un sourir émaille landry<br>
+      XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../images/ImageAccueil2.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
-      -  Inviter les parents et enfants à entrer famille par famille<br>
-      <img class="mt-4" src="../../images/ImageAccueil1.PNG" style="width: 18rem;">
+      XXX<br>
+      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
     </li>
     <!-- Fin Tâche 2 & Image 2 -->
 
     <!-- Tâche 3 & Image 3 -->
     <li class="list-group-item text-left">
-     -  Inviter les enfants à laver les mains Présenter bièvement les activités a travers leur intérêt pédagogique<br>
-     <img class="mt-4" src="../../images/ImageAccueil3.PNG" style="width: 18rem;">
+     XXX<br>
+     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
 
    <!-- Tâche 4 & Image 4 -->
    <li class="list-group-item text-left">
     <!--  texte -->
-    - Installer les enfants et dire aurevoir aux parents<br>
+    XXX<br>
     <!-- Image-->
-    <img class="mt-4" src="../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
   </li>
   <!--Fin Tâche 4 & Image 4 -->
 </ul>
@@ -487,15 +790,47 @@
       <button class="btn nav-link btn-block text-left text-dark collapsed" type="button"
       data-toggle="collapse" data-target="#collapse15" aria-expanded="false"
       aria-controls="collapse15">
-      15. Présentation de  l'atelier aux parents et aux enfants
+      XXX
     </button>
   </h2>
 </div>
 <div id="collapse15" class="collapse" aria-labelledby="heading15" data-parent="#accordionExample">
   <div class="card-body">
+    <p>XXX</p>
+  <ul class="list-group list-group-flush">
 
-    <p>Ici nous avons les détails de la 15ème étape</p>
+    <!-- Tâche 1 & Image 1 -->
+    <li class="list-group-item text-left">
+      <!-- Texte -->
+      XXX<br>
+      <!-- Image-->
+      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+    </li>
+    <!--Fin Tâche 1 & Image 1 -->
 
+    <!-- Tâche 2 & Image 2 -->
+    <li class="list-group-item text-left">
+      XXX<br>
+      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+    </li>
+    <!-- Fin Tâche 2 & Image 2 -->
+
+    <!-- Tâche 3 & Image 3 -->
+    <li class="list-group-item text-left">
+     XXX<br>
+     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+   </li>
+   <!-- Fin Tâche 3 & Image 3 -->
+
+   <!-- Tâche 4 & Image 4 -->
+   <li class="list-group-item text-left">
+    <!--  texte -->
+    XXX<br>
+    <!-- Image-->
+    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+  </li>
+  <!--Fin Tâche 4 & Image 4 -->
+</ul>
   </div>
 </div>
 </div>
@@ -509,13 +844,47 @@
       <button class="btn nav-link btn-block text-left text-dark collapsed" type="button"
       data-toggle="collapse" data-target="#collapse16" aria-expanded="false"
       aria-controls="collapse16">
-      16. Installation des enfants devant chaque table / parcours 
+      XXX
     </button>
   </h2>
 </div>
 <div id="collapse16" class="collapse" aria-labelledby="heading16" data-parent="#accordionExample">
   <div class="card-body">
-    <p>Ici nous avons les détails de la 16ème étape</p>
+    <p>XXX</p>
+  <ul class="list-group list-group-flush">
+
+    <!-- Tâche 1 & Image 1 -->
+    <li class="list-group-item text-left">
+      <!-- Texte -->
+      XXX<br>
+      <!-- Image-->
+      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+    </li>
+    <!--Fin Tâche 1 & Image 1 -->
+
+    <!-- Tâche 2 & Image 2 -->
+    <li class="list-group-item text-left">
+      XXX<br>
+      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+    </li>
+    <!-- Fin Tâche 2 & Image 2 -->
+
+    <!-- Tâche 3 & Image 3 -->
+    <li class="list-group-item text-left">
+     XXX<br>
+     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+   </li>
+   <!-- Fin Tâche 3 & Image 3 -->
+
+   <!-- Tâche 4 & Image 4 -->
+   <li class="list-group-item text-left">
+    <!--  texte -->
+    XXX<br>
+    <!-- Image-->
+    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+  </li>
+  <!--Fin Tâche 4 & Image 4 -->
+</ul>
   </div>
 </div>
 </div>
@@ -528,13 +897,46 @@
       <button class="btn nav-link btn-block text-left text-dark collapsed" type="button"
       data-toggle="collapse" data-target="#collapse17" aria-expanded="false"
       aria-controls="collapse17">
-      17. Allumer les tablettes et le robot Cubetto de manière successive
-    </button>
+     XXX
   </h2>
 </div>
 <div id="collapse17" class="collapse" aria-labelledby="heading17" data-parent="#accordionExample">
   <div class="card-body">
-    <p>Ici nous avons les détails de la 17ème étape</p>
+    <p>XXX</p>
+  <ul class="list-group list-group-flush">
+
+    <!-- Tâche 1 & Image 1 -->
+    <li class="list-group-item text-left">
+      <!-- Texte -->
+      XXX<br>
+      <!-- Image-->
+      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+    </li>
+    <!--Fin Tâche 1 & Image 1 -->
+
+    <!-- Tâche 2 & Image 2 -->
+    <li class="list-group-item text-left">
+      XXX<br>
+      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+    </li>
+    <!-- Fin Tâche 2 & Image 2 -->
+
+    <!-- Tâche 3 & Image 3 -->
+    <li class="list-group-item text-left">
+     XXX<br>
+     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+   </li>
+   <!-- Fin Tâche 3 & Image 3 -->
+
+   <!-- Tâche 4 & Image 4 -->
+   <li class="list-group-item text-left">
+    <!--  texte -->
+    XXX<br>
+    <!-- Image-->
+    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+  </li>
+  <!--Fin Tâche 4 & Image 4 -->
+</ul>
   </div>
 </div>
 </div>
@@ -547,13 +949,47 @@
       <button class="btn nav-link btn-block text-left text-dark collapsed" type="button"
       data-toggle="collapse" data-target="#collapse18" aria-expanded="false"
       aria-controls="collapse18">
-      18. Animation de l'atelier
+      XXX
     </button>
   </h2>
 </div>
 <div id="collapse18" class="collapse" aria-labelledby="heading18" data-parent="#accordionExample">
   <div class="card-body">
-    <p>Ici nous avons les détails de la 18ème étape</p>
+    <p>XXX</p>
+  <ul class="list-group list-group-flush">
+
+    <!-- Tâche 1 & Image 1 -->
+    <li class="list-group-item text-left">
+      <!-- Texte -->
+      XXX<br>
+      <!-- Image-->
+      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+    </li>
+    <!--Fin Tâche 1 & Image 1 -->
+
+    <!-- Tâche 2 & Image 2 -->
+    <li class="list-group-item text-left">
+      XXX<br>
+      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+    </li>
+    <!-- Fin Tâche 2 & Image 2 -->
+
+    <!-- Tâche 3 & Image 3 -->
+    <li class="list-group-item text-left">
+     XXX<br>
+     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+   </li>
+   <!-- Fin Tâche 3 & Image 3 -->
+
+   <!-- Tâche 4 & Image 4 -->
+   <li class="list-group-item text-left">
+    <!--  texte -->
+    XXX<br>
+    <!-- Image-->
+    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+  </li>
+  <!--Fin Tâche 4 & Image 4 -->
+</ul>
   </div>
 </div>
 </div>
@@ -566,13 +1002,47 @@
       <button class="btn nav-link btn-block text-left text-dark collapsed" type="button"
       data-toggle="collapse" data-target="#collapse19" aria-expanded="false"
       aria-controls="collapse19">
-      19. Fin de l'atelier, Restitutions aux parents
+      XXX
     </button>
   </h2>
 </div>
 <div id="collapse19" class="collapse" aria-labelledby="heading19" data-parent="#accordionExample">
   <div class="card-body">
-    <p>Ici nous avons les détails de la 19ème étape</p>
+    <p>XXX</p>
+  <ul class="list-group list-group-flush">
+
+    <!-- Tâche 1 & Image 1 -->
+    <li class="list-group-item text-left">
+      <!-- Texte -->
+      XXX<br>
+      <!-- Image-->
+      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+    </li>
+    <!--Fin Tâche 1 & Image 1 -->
+
+    <!-- Tâche 2 & Image 2 -->
+    <li class="list-group-item text-left">
+      XXX<br>
+      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+    </li>
+    <!-- Fin Tâche 2 & Image 2 -->
+
+    <!-- Tâche 3 & Image 3 -->
+    <li class="list-group-item text-left">
+     XXX<br>
+     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+   </li>
+   <!-- Fin Tâche 3 & Image 3 -->
+
+   <!-- Tâche 4 & Image 4 -->
+   <li class="list-group-item text-left">
+    <!--  texte -->
+    XXX<br>
+    <!-- Image-->
+    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+  </li>
+  <!--Fin Tâche 4 & Image 4 -->
+</ul>
   </div>
 </div>
 </div>
