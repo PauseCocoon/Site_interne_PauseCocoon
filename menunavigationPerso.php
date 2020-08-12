@@ -60,4 +60,3 @@ echo'
 
       <div class="btn"> <i class="fas fa-bars"> </i> </div>
       <div id="pageaImprimer">';
-?>
