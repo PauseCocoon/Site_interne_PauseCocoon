@@ -521,7 +521,7 @@ if (!isset($_SESSION['pseudo'])) {
 
             <div id="thunkable" data-tab-content>
               <div class="box">
-                <div class="cell"> <a href="Capsules\Thunkable\Thunkable\Video_intro.php">
+                <div class="cell"> <a href="Capsules\Thunkable\lien_1\Video_intro.php">
                     <img src="">
                     <div class="trait"></div>
                     <h4>
@@ -531,7 +531,7 @@ if (!isset($_SESSION['pseudo'])) {
                 </div>
 
 
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules\Thunkable\lien_2\Video_intro.php">
                     <img src="">
                     <div class="trait"></div>
                     <h4>
@@ -540,7 +540,7 @@ if (!isset($_SESSION['pseudo'])) {
                   </a>
                 </div>
 
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules\Thunkable\lien_3\Video_intro.php">
                     <img src="">
                     <div class="trait"></div>
                     <h4>
@@ -549,7 +549,7 @@ if (!isset($_SESSION['pseudo'])) {
                   </a>
                 </div>
 
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules\Thunkable\lien_4\Video_intro.php">
                     <img src="">
                     <div class="trait"></div>
                     <h4>
@@ -597,7 +597,7 @@ if (!isset($_SESSION['pseudo'])) {
 
             <div id="animerAnniv" data-tab-content>
               <div class="box">
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules/Animer Anniversaire/Animer Anniversaire 1/Video_intro.php">
                     <img src="images/anniversaire2.png">
                     <div class="trait"></div>
                     <h4>
