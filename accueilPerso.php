@@ -267,13 +267,11 @@ if (!isset($_SESSION['pseudo'])) {
                   </a>
                 </div>
               </div>
-
-              <p> creationParfum contenu </p>
             </div>
 
             <div id="cuisine" data-tab-content>
               <div class="box">
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules\Cuisine\lien_1\Video_intro.php">
                     <img src="images/Cuisine/1Cuisine.jpg">
                     <h4>
                       <p> Titre</p>
@@ -281,7 +279,7 @@ if (!isset($_SESSION['pseudo'])) {
                   </a>
                 </div>
 
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules\Cuisine\lien_2\Video_intro.php">
                     <img src="images/3D1.jpg">
                     <h4>
                       <p> Titre </p>
@@ -289,7 +287,7 @@ if (!isset($_SESSION['pseudo'])) {
                   </a>
                 </div>
 
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules\Cuisine\lien_3\Video_intro.php">
                     <img src="images/3D1.jpg">
                     <h4>
                       <p> Titre </p>
@@ -297,57 +295,32 @@ if (!isset($_SESSION['pseudo'])) {
                   </a>
                 </div>
 
-                <div class="cell"> <a href="">
-                    <img src="images/3D1.jpg">
-                    <h4>
-                      <p> Titre</p>
-                    </h4>
-                  </a>
-                </div>
-
-                <div class="cell"> <a href="">
-                    <img src="images/3D1.jpg">
-                    <h4>
-                      <p> Titre </p>
-                    </h4>
-                  </a>
-                </div>
-
-                <div class="cell"> <a href="">
-                    <img src="images/3D1.jpg">
-                    <h4>
-                      <p> Titre </p>
-                    </h4>
-                  </a>
-                </div>
               </div>
-
               <p> Contenu Cusine </p>
             </div>
 
             <div id="couture" data-tab-content>
               <div class="box">
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules\Couture\lien_1\Video_intro.php">
                     <img src="images/Couture1.JPG">
                     <h4>
-                      <p> Titre </p>
+                      <p> Titre 1 </p>
                     </h4>
                   </a>
                 </div>
 
-
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules\Couture\lien_2\Video_intro.php">
                     <img src="images/Couture1.jpg">
                     <h4>
-                      <p> Titre </p>
+                      <p> Titre 2 </p>
                     </h4>
                   </a>
                 </div>
 
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules\Couture\lien_3\Video_intro.php">
                     <img src="images/Couture1.jpg">
                     <h4>
-                      <p> Titre </p>
+                      <p> Titre 3 </p>
                     </h4>
                   </a>
                 </div>
@@ -355,7 +328,32 @@ if (!isset($_SESSION['pseudo'])) {
             </div>
 
             <div id="troisd" data-tab-content>
-              <p> Contenu 3D </p>
+
+              <div class="box">
+                <div class="cell"> <a href="Capsules\3D\lien_1\Video_intro.php">
+                    <img src="images/Cuisine/1Cuisine.jpg">
+                    <h4>
+                      <p> Titre</p>
+                    </h4>
+                  </a>
+                </div>
+
+                <div class="cell"> <a href="Capsules\3D\lien_2\Video_intro.php">
+                    <img src="images/3D1.jpg">
+                    <h4>
+                      <p> Titre </p>
+                    </h4>
+                  </a>
+                </div>
+
+                <div class="cell"> <a href="Capsules\3D\lien_3\Video_intro.php">
+                    <img src="images/3D1.jpg">
+                    <h4>
+                      <p> Titre </p>
+                    </h4>
+                  </a>
+                </div>
+              </div>
             </div>
           </div> <!-- fin .tabs-content -->
         </div> <!-- fin .tabsModules -->
@@ -491,30 +489,30 @@ if (!isset($_SESSION['pseudo'])) {
 
             <div id="glitch" data-tab-content>
               <div class="box">
-                <div class="cell"> <a href="Capsules/Glitch/tuto1/Video_intro.php">
-                    <img src="images/Glitch.png">
+                <div class="cell"> <a href="">
+                    <img src="">
                     <div class="trait"></div>
                     <h4>
-                      <p> Tuto 1 </p>
+                      <p> Titre </p>
                     </h4>
                   </a>
                 </div>
 
 
-                <div class="cell"> <a href="Capsules/Glitch/tuto2/Video_intro.php">
-                    <img src="images/Glitch.png">
+                <div class="cell"> <a href="">
+                    <img src="">
                     <div class="trait"></div>
                     <h4>
-                      <p> Tuto 2 </p>
+                      <p> Titre </p>
                     </h4>
                   </a>
                 </div>
 
-                <div class="cell"> <a href="Capsules/Glitch/tuto3/Video_intro.php">
-                    <img src="images/Glitch.png">
+                <div class="cell"> <a href="">
+                    <img src="">
                     <div class="trait"></div>
                     <h4>
-                      <p> Tuto 3 </p>
+                      <p> Titre </p>
                     </h4>
                   </a>
                 </div>
