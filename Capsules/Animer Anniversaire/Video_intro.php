@@ -5,12 +5,12 @@
 <head>
 
   <title> Animer Anniversaire 1 </title>
-  <link rel="stylesheet" type="text/css" href="../../../Ressources_css/cubetto_prehistoire.css">
-  <link rel="stylesheet" type="text/css" href="../../Ressources_css/css.css">
-  <link rel="stylesheet" type="text/css" href="../../../Ressources_css/menunavigation.css">
+  <link rel="stylesheet" type="text/css" href="../../Ressources_css/cubetto_prehistoire.css">
+  <link rel="stylesheet" type="text/css" href="../Ressources_css/css.css">
+  <link rel="stylesheet" type="text/css" href="../../Ressources_css/menunavigation.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css" integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous">
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"/> </script>
-  <?php include'../../../menunavigationPersoScratch_Junior.php';?>
+  <?php include'../../menunavigationPersoScratch_Junior.php';?>
 
   <div id="pageaImprimer">
     <center>
@@ -21,15 +21,10 @@
 
         <div class="container">
 
+          <iframe width="500px" height="500px" src="https://www.powtoon.com/embed/fLTTiUf9MX4/" frameborder="0" allowfullscreen></iframe>
+
           <p>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p><br>
           <p>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
-
-         <iframe src="https://www.youtube.com/embed/pDn0lzevy6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-         <iframe src="https://www.youtube.com/embed/pDn0lzevy6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          
-          <iframe src="https://www.youtube.com/embed/pDn0lzevy6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
         </div>
 
@@ -37,8 +32,8 @@
 
         <div class="choix">
 
-          <div class="lecon_prece">
-            <a href="Animer_Anniversaire.php">  <b> < </b> Leçon précédente </a>
+          <div class="lecon_suiv">
+            <a href="Animer_Anniversaire.php"> Leçon suivante <b> > </b>  </a>
           </div>
 
         </div>

@@ -5,12 +5,12 @@
 <head>
 
   <title> Animer Anniversaire 1 </title>
-  <link rel="stylesheet" type="text/css" href="../../../Ressources_css/cubetto_prehistoire.css">
-  <link rel="stylesheet" type="text/css" href="../../Ressources_css/css.css">
-  <link rel="stylesheet" type="text/css" href="../../../Ressources_css/menunavigation.css">
+  <link rel="stylesheet" type="text/css" href="../../Ressources_css/cubetto_prehistoire.css">
+  <link rel="stylesheet" type="text/css" href="../Ressources_css/css.css">
+  <link rel="stylesheet" type="text/css" href="../../Ressources_css/menunavigation.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css" integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous">
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"/> </script>
-  <?php include'../../../menunavigationPersoScratch_Junior.php';?>
+  <?php include'../../menunavigationPersoScratch_Junior.php';?>
 
   <div id="pageaImprimer">
     <center>
@@ -52,21 +52,21 @@
                   <!-- Texte -->
                   XXX<br>
                   <!-- Image-->
-                  <img class="mt-4" src="../../../images/Parfum1.jpg" style="width: 18rem;">
+                  <img class="mt-4" src="../../images/Parfum1.jpg" style="width: 18rem;">
                 </li>
                 <!--Fin Tâche 1 & Image 1 -->
 
                 <!-- Tâche 2 & Image 2 -->
                 <li class="list-group-item text-left">
                  XXX<br>
-                 <img class="mt-4" src="../../../images/Science1.jpg" style="width: 18rem;">
+                 <img class="mt-4" src="../../images/Science1.jpg" style="width: 18rem;">
                </li>
                <!-- Fin Tâche 2 & Image 2 -->
 
                <!-- Tâche 3 & Image 3 -->
                <li class="list-group-item text-left">
                  XXX<br>
-                 <img class="mt-4" src="../../../images/3D2.jpg" style="width: 18rem;">
+                 <img class="mt-4" src="../../images/3D2.jpg" style="width: 18rem;">
                </li>
                <!-- Fin Tâche 3 & Image 3 -->
              </ul>
@@ -104,21 +104,21 @@
             <!-- Texte -->
             XXX<br>
             <!-- Image-->
-            <img class="mt-4" src="../../../images/3D1.jpg" style="width: 18rem;">
+            <img class="mt-4" src="../../images/3D1.jpg" style="width: 18rem;">
           </li>
           <!--Fin Tâche 1 & Image 1 -->
 
           <!-- Tâche 2 & Image 2 -->
           <li class="list-group-item text-left">
            XXX<br>
-           <img class="mt-4" src="../../../images/3D3.jpg" style="width: 18rem;">
+           <img class="mt-4" src="../../images/3D3.jpg" style="width: 18rem;">
          </li>
          <!-- Fin Tâche 2 & Image 2 -->
 
          <!-- Tâche 3 & Image 3 -->
          <li class="list-group-item text-left">
            XXX<br>
-           <img class="mt-4" src="../../../images/3D4.jpg" style="width: 18rem;">
+           <img class="mt-4" src="../../images/3D4.jpg" style="width: 18rem;">
          </li>
          <!-- Fin Tâche 3 & Image 3 -->
        </ul>
@@ -155,21 +155,21 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/3D4.jpg" style="width: 18rem;">
+      <img class="mt-4" src="../../images/3D4.jpg" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
      XXX<br>
-     <img class="mt-4" src="../../../images/3D6.JPG" style="width: 18rem;">
+     <img class="mt-4" src="../../images/3D6.JPG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 2 & Image 2 -->
 
    <!-- Tâche 3 & Image 3 -->
    <li class="list-group-item text-left">
     XXX<br>
-     <img class="mt-4" src="../../../images/3D5.jpg" style="width: 18rem;">
+     <img class="mt-4" src="../../images/3D5.jpg" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
  </ul>
@@ -202,21 +202,21 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil2.PNG" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
       XXX<br>
-      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil1.PNG" style="width: 18rem;">
     </li>
     <!-- Fin Tâche 2 & Image 2 -->
 
     <!-- Tâche 3 & Image 3 -->
     <li class="list-group-item text-left">
      XXX<br>
-     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+     <img class="mt-4" src="../../images/ImageAccueil3.PNG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
 
@@ -225,7 +225,7 @@
     <!--  texte -->
     XXX<br>
     <!-- Image-->
-    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+    <img class="mt-4" src="../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
   </li>
   <!--Fin Tâche 4 & Image 4 -->
 </ul>
@@ -257,21 +257,21 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil2.PNG" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
       XXX<br>
-      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil1.PNG" style="width: 18rem;">
     </li>
     <!-- Fin Tâche 2 & Image 2 -->
 
     <!-- Tâche 3 & Image 3 -->
     <li class="list-group-item text-left">
      XXX<br>
-     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+     <img class="mt-4" src="../../images/ImageAccueil3.PNG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
 
@@ -280,7 +280,7 @@
     <!--  texte -->
     XXX<br>
     <!-- Image-->
-    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+    <img class="mt-4" src="../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
   </li>
   <!--Fin Tâche 4 & Image 4 -->
 </ul>
@@ -312,21 +312,21 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil2.PNG" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
       XXX<br>
-      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil1.PNG" style="width: 18rem;">
     </li>
     <!-- Fin Tâche 2 & Image 2 -->
 
     <!-- Tâche 3 & Image 3 -->
     <li class="list-group-item text-left">
      XXX<br>
-     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+     <img class="mt-4" src="../../images/ImageAccueil3.PNG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
 
@@ -335,7 +335,7 @@
     <!--  texte -->
     XXX<br>
     <!-- Image-->
-    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+    <img class="mt-4" src="../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
   </li>
   <!--Fin Tâche 4 & Image 4 -->
 </ul>
@@ -365,21 +365,21 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil2.PNG" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
       XXX<br>
-      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil1.PNG" style="width: 18rem;">
     </li>
     <!-- Fin Tâche 2 & Image 2 -->
 
     <!-- Tâche 3 & Image 3 -->
     <li class="list-group-item text-left">
      XXX<br>
-     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+     <img class="mt-4" src="../../images/ImageAccueil3.PNG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
 
@@ -388,7 +388,7 @@
     <!--  texte -->
     XXX<br>
     <!-- Image-->
-    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+    <img class="mt-4" src="../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
   </li>
   <!--Fin Tâche 4 & Image 4 -->
 </ul>
@@ -420,21 +420,21 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil2.PNG" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
       XXX<br>
-      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil1.PNG" style="width: 18rem;">
     </li>
     <!-- Fin Tâche 2 & Image 2 -->
 
     <!-- Tâche 3 & Image 3 -->
     <li class="list-group-item text-left">
      XXX<br>
-     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+     <img class="mt-4" src="../../images/ImageAccueil3.PNG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
 
@@ -443,7 +443,7 @@
     <!--  texte -->
     XXX<br>
     <!-- Image-->
-    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+    <img class="mt-4" src="../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
   </li>
   <!--Fin Tâche 4 & Image 4 -->
 </ul>
@@ -474,21 +474,21 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil2.PNG" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
       XXX<br>
-      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil1.PNG" style="width: 18rem;">
     </li>
     <!-- Fin Tâche 2 & Image 2 -->
 
     <!-- Tâche 3 & Image 3 -->
     <li class="list-group-item text-left">
      XXX<br>
-     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+     <img class="mt-4" src="../../images/ImageAccueil3.PNG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
 
@@ -497,7 +497,7 @@
     <!--  texte -->
     XXX<br>
     <!-- Image-->
-    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+    <img class="mt-4" src="../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
   </li>
   <!--Fin Tâche 4 & Image 4 -->
 </ul>
@@ -532,21 +532,21 @@
         <!-- Texte -->
         XXX<br>
         <!-- Image-->
-        <img class="mt-4" src="../../../images/Fondecran1.PNG" style="width: 18rem;">
+        <img class="mt-4" src="../../images/Fondecran1.PNG" style="width: 18rem;">
       </li>
       <!--Fin Tâche 1 & Image 1 -->
 
       <!-- Tâche 2 & Image 2 -->
       <li class="list-group-item text-left">
        XXX<br>
-       <img class="mt-4" src="../../../images/Scratch1.jpg" style="width: 18rem;">
+       <img class="mt-4" src="../../images/Scratch1.jpg" style="width: 18rem;">
      </li>
      <!-- Fin Tâche 2 & Image 2 -->
 
      <!-- Tâche 3 & Image 3 -->
      <li class="list-group-item text-left">
       XXX<br>
-       <img class="mt-4" src="../../../images/3D5.jpg" style="width: 18rem;">
+       <img class="mt-4" src="../../images/3D5.jpg" style="width: 18rem;">
      </li>
      <!-- Fin Tâche 3 & Image 3 -->
 
@@ -555,7 +555,7 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/Parfum2.jpg" style="width: 18rem;">
+      <img class="mt-4" src="../../images/Parfum2.jpg" style="width: 18rem;">
     </li>
     <!--Fin Tâche 4 & Image 4 -->
   </ul>
@@ -585,21 +585,21 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil2.PNG" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
       XXX<br>
-      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil1.PNG" style="width: 18rem;">
     </li>
     <!-- Fin Tâche 2 & Image 2 -->
 
     <!-- Tâche 3 & Image 3 -->
     <li class="list-group-item text-left">
      XXX<br>
-     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+     <img class="mt-4" src="../../images/ImageAccueil3.PNG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
 
@@ -608,7 +608,7 @@
     <!--  texte -->
     XXX<br>
     <!-- Image-->
-    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+    <img class="mt-4" src="../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
   </li>
   <!--Fin Tâche 4 & Image 4 -->
 </ul>
@@ -638,21 +638,21 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil2.PNG" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
       XXX<br>
-      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil1.PNG" style="width: 18rem;">
     </li>
     <!-- Fin Tâche 2 & Image 2 -->
 
     <!-- Tâche 3 & Image 3 -->
     <li class="list-group-item text-left">
      XXX<br>
-     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+     <img class="mt-4" src="../../images/ImageAccueil3.PNG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
 
@@ -661,7 +661,7 @@
     <!--  texte -->
     XXX<br>
     <!-- Image-->
-    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+    <img class="mt-4" src="../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
   </li>
   <!--Fin Tâche 4 & Image 4 -->
 </ul>
@@ -692,21 +692,21 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil2.PNG" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
       XXX<br>
-      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil1.PNG" style="width: 18rem;">
     </li>
     <!-- Fin Tâche 2 & Image 2 -->
 
     <!-- Tâche 3 & Image 3 -->
     <li class="list-group-item text-left">
      XXX<br>
-     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+     <img class="mt-4" src="../../images/ImageAccueil3.PNG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
 
@@ -715,7 +715,7 @@
     <!--  texte -->
     XXX<br>
     <!-- Image-->
-    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+    <img class="mt-4" src="../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
   </li>
   <!--Fin Tâche 4 & Image 4 -->
 </ul>
@@ -751,21 +751,21 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil2.PNG" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
       XXX<br>
-      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil1.PNG" style="width: 18rem;">
     </li>
     <!-- Fin Tâche 2 & Image 2 -->
 
     <!-- Tâche 3 & Image 3 -->
     <li class="list-group-item text-left">
      XXX<br>
-     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+     <img class="mt-4" src="../../images/ImageAccueil3.PNG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
 
@@ -774,7 +774,7 @@
     <!--  texte -->
     XXX<br>
     <!-- Image-->
-    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+    <img class="mt-4" src="../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
   </li>
   <!--Fin Tâche 4 & Image 4 -->
 </ul>
@@ -804,21 +804,21 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil2.PNG" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
       XXX<br>
-      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil1.PNG" style="width: 18rem;">
     </li>
     <!-- Fin Tâche 2 & Image 2 -->
 
     <!-- Tâche 3 & Image 3 -->
     <li class="list-group-item text-left">
      XXX<br>
-     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+     <img class="mt-4" src="../../images/ImageAccueil3.PNG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
 
@@ -827,7 +827,7 @@
     <!--  texte -->
     XXX<br>
     <!-- Image-->
-    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+    <img class="mt-4" src="../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
   </li>
   <!--Fin Tâche 4 & Image 4 -->
 </ul>
@@ -858,21 +858,21 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil2.PNG" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
       XXX<br>
-      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil1.PNG" style="width: 18rem;">
     </li>
     <!-- Fin Tâche 2 & Image 2 -->
 
     <!-- Tâche 3 & Image 3 -->
     <li class="list-group-item text-left">
      XXX<br>
-     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+     <img class="mt-4" src="../../images/ImageAccueil3.PNG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
 
@@ -881,7 +881,7 @@
     <!--  texte -->
     XXX<br>
     <!-- Image-->
-    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+    <img class="mt-4" src="../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
   </li>
   <!--Fin Tâche 4 & Image 4 -->
 </ul>
@@ -910,21 +910,21 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil2.PNG" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
       XXX<br>
-      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil1.PNG" style="width: 18rem;">
     </li>
     <!-- Fin Tâche 2 & Image 2 -->
 
     <!-- Tâche 3 & Image 3 -->
     <li class="list-group-item text-left">
      XXX<br>
-     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+     <img class="mt-4" src="../../images/ImageAccueil3.PNG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
 
@@ -933,7 +933,7 @@
     <!--  texte -->
     XXX<br>
     <!-- Image-->
-    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+    <img class="mt-4" src="../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
   </li>
   <!--Fin Tâche 4 & Image 4 -->
 </ul>
@@ -963,21 +963,21 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil2.PNG" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
       XXX<br>
-      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil1.PNG" style="width: 18rem;">
     </li>
     <!-- Fin Tâche 2 & Image 2 -->
 
     <!-- Tâche 3 & Image 3 -->
     <li class="list-group-item text-left">
      XXX<br>
-     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+     <img class="mt-4" src="../../images/ImageAccueil3.PNG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
 
@@ -986,7 +986,7 @@
     <!--  texte -->
     XXX<br>
     <!-- Image-->
-    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+    <img class="mt-4" src="../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
   </li>
   <!--Fin Tâche 4 & Image 4 -->
 </ul>
@@ -1016,21 +1016,21 @@
       <!-- Texte -->
       XXX<br>
       <!-- Image-->
-      <img class="mt-4" src="../../../images/ImageAccueil2.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil2.PNG" style="width: 18rem;">
     </li>
     <!--Fin Tâche 1 & Image 1 -->
 
     <!-- Tâche 2 & Image 2 -->
     <li class="list-group-item text-left">
       XXX<br>
-      <img class="mt-4" src="../../../images/ImageAccueil1.PNG" style="width: 18rem;">
+      <img class="mt-4" src="../../images/ImageAccueil1.PNG" style="width: 18rem;">
     </li>
     <!-- Fin Tâche 2 & Image 2 -->
 
     <!-- Tâche 3 & Image 3 -->
     <li class="list-group-item text-left">
      XXX<br>
-     <img class="mt-4" src="../../../images/ImageAccueil3.PNG" style="width: 18rem;">
+     <img class="mt-4" src="../../images/ImageAccueil3.PNG" style="width: 18rem;">
    </li>
    <!-- Fin Tâche 3 & Image 3 -->
 
@@ -1039,7 +1039,7 @@
     <!--  texte -->
     XXX<br>
     <!-- Image-->
-    <img class="mt-4" src="../../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
+    <img class="mt-4" src="../../images/ImageAccueil4.PNG.PNG" style="width: 18rem;">
   </li>
   <!--Fin Tâche 4 & Image 4 -->
 </ul>
