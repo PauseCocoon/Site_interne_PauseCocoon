@@ -386,6 +386,7 @@ if (!isset($_SESSION['pseudo'])) {
             <li data-tab-target="#scratch" class="tab"> Scratch </a></li>
             <li data-tab-target="#cubetto" class="tab"> Cubetto </a></li>
             <li data-tab-target="#glitch" class="tab"> Glitch </a></li>
+            <li data-tab-target="#thunkable" class="tab"> Thunkable </a></li>
           </ul>
 
           <div class="tabs-content">
@@ -465,7 +466,7 @@ if (!isset($_SESSION['pseudo'])) {
 
             <div id="cubetto" data-tab-content>
               <div class="box">
-                <div class="cell"> <a href="Capsules/Cubetto/Video_intro.php">
+                <div class="cell"> <a href="Capsules/Cubetto/Atelier_Cubetto_Theme_Prehistoire/Video_intro.php">
                     <img src="images/cubetto1.jpg">
                     <div class="trait"></div>
                     <h4>
@@ -475,29 +476,29 @@ if (!isset($_SESSION['pseudo'])) {
                 </div>
 
 
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules/Cubetto/Atelier_Cubetto_2/Video_intro.php">
                     <img src="images/cubetto1.jpg">
                     <div class="trait"></div>
                     <h4>
-                      <p> Titre </p>
+                      <p> Cubetto 2 </p>
                     </h4>
                   </a>
                 </div>
 
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules/Cubetto/Atelier_Cubetto_3/Video_intro.php">
                     <img src="images/cubetto1.jpg">
                     <div class="trait"></div>
                     <h4>
-                      <p> Titre </p>
+                      <p> Cubetto 3 </p>
                     </h4>
                   </a>
                 </div>
 
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules/Cubetto/Atelier_Cubetto_4/Video_intro.php">
                     <img src="images/cubetto1.jpg">
                     <div class="trait"></div>
                     <h4>
-                      <p> Titre </p>
+                      <p> Cubetto 4 </p>
                     </h4>
                   </a>
                 </div>
@@ -536,6 +537,49 @@ if (!isset($_SESSION['pseudo'])) {
                 </div>
               </div> <!-- fin .box -->
             </div> <!-- fin #glitch -->
+
+            <div id="thunkable" data-tab-content>
+              <div class="box">
+                <div class="cell"> <a href="">
+                    <img src="">
+                    <div class="trait"></div>
+                    <h4>
+                      <p> Thunkable 1 </p>
+                    </h4>
+                  </a>
+                </div>
+
+
+                <div class="cell"> <a href="">
+                    <img src="">
+                    <div class="trait"></div>
+                    <h4>
+                      <p> Thunkable 2 </p>
+                    </h4>
+                  </a>
+                </div>
+
+                <div class="cell"> <a href="">
+                    <img src="">
+                    <div class="trait"></div>
+                    <h4>
+                      <p> Thunkable 3 </p>
+                    </h4>
+                  </a>
+                </div>
+
+                <div class="cell"> <a href="">
+                    <img src="">
+                    <div class="trait"></div>
+                    <h4>
+                      <p> Thunkable 4 </p>
+                    </h4>
+                  </a>
+                </div>
+
+              </div>
+            </div>
+            <!--fin thunkable-->
           </div> <!-- fin .tabs-content -->
         </div> <!-- fin .tabsModules -->
       </div> <!-- fin #tab3 -->
