@@ -13,14 +13,13 @@ echo '
 <i class="fas fa-ellipsis-h"></i>
 </label>
 <ul class = "menu">
-      <a href="../../accueilPerso.php"> <i class="fas fa-home"></i> Accueil </a>
-      <a href=""> <i class="fas fa-user"></i> Mon profil </a>
-      <a href="../../annuaire.php">  Annuaire </a>
-      <a href="../../deconnexion.php"> <i class="fas fa-power-off"></i> Déconnexion </a>
+      <a href="../../../accueilPerso.php"> <i class="fas fa-home"></i> Accueil </a>
+      <a href="#"> <i class="fas fa-user"></i> Mon profil </a>
+      <a href="../../../annuaire.php">  Annuaire </a>
+      <a href="../../../deconnexion.php"> <i class="fas fa-power-off"></i> Déconnexion </a>
       <label class="hide-menutbn" for="check">
         <i class="fas fa-times"></i>
       </label>
     </ul>
 </div>
 <div id="pageaImprimer"> </div>';
-?>
