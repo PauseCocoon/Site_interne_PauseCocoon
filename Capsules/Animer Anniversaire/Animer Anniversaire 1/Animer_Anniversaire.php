@@ -5,12 +5,12 @@
 <head>
 
   <title> Animer Anniversaire 1 </title>
-  <link rel="stylesheet" type="text/css" href="../../Ressources_css/cubetto_prehistoire.css">
-  <link rel="stylesheet" type="text/css" href="../Ressources_css/css.css">
-  <link rel="stylesheet" type="text/css" href="../../Ressources_css/menunavigation.css">
+  <link rel="stylesheet" type="text/css" href="../../../Ressources_css/cubetto_prehistoire.css">
+  <link rel="stylesheet" type="text/css" href="../../Ressources_css/css.css">
+  <link rel="stylesheet" type="text/css" href="../../../Ressources_css/menunavigation.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css" integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous">
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"/> </script>
-  <?php include'../../menunavigationPersoScratch_Junior.php';?>
+  <?php include'../../../menunavigationPersoScratch_Junior.php';?>
 
   <div id="pageaImprimer">
     <center>

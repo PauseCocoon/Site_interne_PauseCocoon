@@ -599,7 +599,7 @@ if (!isset($_SESSION['pseudo'])) {
 
             <div id="animerAnniv" data-tab-content>
               <div class="box">
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules/Animer Anniversaire/Animer Anniversaire 1/Video_intro.php">
                     <img src="images/anniversaire2.png">
                     <div class="trait"></div>
                     <h4>
