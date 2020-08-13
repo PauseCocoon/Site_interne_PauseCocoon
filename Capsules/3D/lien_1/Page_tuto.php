@@ -25,12 +25,20 @@
           <p>XXXX</p><br>
           <p>XXXX</p>
 
-          <iframe width="555" height="416" src="https://www.youtube.com/embed/nKp0hxmPalE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-          <iframe width="740" height="416" src="https://www.youtube.com/embed/0CSWSKxtAAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-          <iframe width="555" height="416" src="https://www.youtube.com/embed/nKp0hxmPalE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+          <div class="row mt-4">
+            <div class="col-4 mt-4">
+              <iframe width="350px" height="350px" src="https://www.youtube.com/embed/nKp0hxmPalE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Video 1</p>
+            </div>
+            <div class="col-4 mt-4">
+              <iframe width="350px" height="350px" src="https://www.youtube.com/embed/nKp0hxmPalE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Video 2</p>
+            </div>
+            <div class="col-4 mt-4">
+              <iframe width="350px" height="350px" src="https://www.youtube.com/embed/nKp0hxmPalE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Video 3</p>
+            </div>
+          </div>
           <div class="choix">
 
             <div class="lecon_prece">
