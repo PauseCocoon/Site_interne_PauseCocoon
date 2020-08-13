@@ -575,7 +575,7 @@ if (!isset($_SESSION['pseudo'])) {
           <div class="tabs-content">
             <div id="orgAnniv" data-tab-content>
               <div class="box">
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules\Organiser Anniversaire\Organiser Anniversaire 1\Video_intro1.php">
                     <img src="images/anniversaire1.jpg">
                     <div class="trait"></div>
                     <h4>
@@ -584,7 +584,7 @@ if (!isset($_SESSION['pseudo'])) {
                   </a>
                 </div>
 
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules\Organiser Anniversaire\Organiser Anniversaire 2\Video_intro2.php">
                     <img src="images/anniversaire1.jpg">
                     <div class="trait"></div>
                     <h4>
@@ -597,7 +597,7 @@ if (!isset($_SESSION['pseudo'])) {
 
             <div id="animerAnniv" data-tab-content>
               <div class="box">
-                <div class="cell"> <a href="Capsules/Animer Anniversaire/Animer Anniversaire 1/Video_intro.php">
+                <div class="cell"> <a href="Capsules\Animer Anniversaire\Animer Anniversaire 1\Video_intro.php">
                     <img src="images/anniversaire2.png">
                     <div class="trait"></div>
                     <h4>
