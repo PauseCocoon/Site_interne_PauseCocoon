@@ -491,30 +491,30 @@ if (!isset($_SESSION['pseudo'])) {
 
             <div id="glitch" data-tab-content>
               <div class="box">
-                <div class="cell"> <a href="">
-                    <img src="">
+                <div class="cell"> <a href="Capsules/Glitch/tuto1/Video_intro.php">
+                    <img src="images/Glitch.png">
                     <div class="trait"></div>
                     <h4>
-                      <p> Titre </p>
+                      <p> Tuto 1 </p>
                     </h4>
                   </a>
                 </div>
 
 
-                <div class="cell"> <a href="">
-                    <img src="">
+                <div class="cell"> <a href="Capsules/Glitch/tuto2/Video_intro.php">
+                    <img src="images/Glitch.png">
                     <div class="trait"></div>
                     <h4>
-                      <p> Titre </p>
+                      <p> Tuto 2 </p>
                     </h4>
                   </a>
                 </div>
 
-                <div class="cell"> <a href="">
-                    <img src="">
+                <div class="cell"> <a href="Capsules/Glitch/tuto3/Video_intro.php">
+                    <img src="images/Glitch.png">
                     <div class="trait"></div>
                     <h4>
-                      <p> Titre </p>
+                      <p> Tuto 3 </p>
                     </h4>
                   </a>
                 </div>
