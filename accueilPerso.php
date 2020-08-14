@@ -614,6 +614,14 @@ if (!isset($_SESSION['pseudo'])) {
 
       <div id="tab5" hidden="hidden">
         <p>Officia deserunt mollit anim id est laborum. </p>
+        <div class="tabsModules">
+          <ul class="tabs-title">
+            <li data-tab-target="" class="tab"> XXX</li>
+            <li data-tab-target="" class="tab"> XXX </li>
+          </ul> 
+
+          </div> <!-- fin tabs-content -->
+        </div> <!-- fin .tabsModules -->
       </div>
 
     </div>
