@@ -236,7 +236,7 @@ if (!isset($_SESSION['pseudo'])) {
             <div id="creationParfum" data-tab-content>
               <div class="box">
                 <div class="cell"> <a href="Capsules\Creations_Parfums\lien_1\Video_intro.php">
-                  <!--Img => c'est pour les photos-->
+                    <!--Img => c'est pour les photos-->
                     <img src="images/Parfum1.jpg">
                     <h4>
                       <p> Atelier 1 </p>
@@ -521,7 +521,7 @@ if (!isset($_SESSION['pseudo'])) {
 
             <div id="glitch" data-tab-content>
               <div class="box">
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules\Glitch\tuto1\Video_intro.php">
                     <img src="images/Glitch.png">
                     <div class="trait"></div>
                     <h4>
@@ -531,7 +531,7 @@ if (!isset($_SESSION['pseudo'])) {
                 </div>
 
 
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules\Glitch\tuto2\Video_intro.php">
                     <img src="">
                     <div class="trait"></div>
                     <h4>
@@ -540,7 +540,7 @@ if (!isset($_SESSION['pseudo'])) {
                   </a>
                 </div>
 
-                <div class="cell"> <a href="">
+                <div class="cell"> <a href="Capsules\Glitch\tuto3\Video_intro.php">
                     <img src="">
                     <div class="trait"></div>
                     <h4>
@@ -650,11 +650,11 @@ if (!isset($_SESSION['pseudo'])) {
           <ul class="tabs-title">
             <li data-tab-target="" class="tab"> XXX</li>
             <li data-tab-target="" class="tab"> XXX </li>
-          </ul> 
+          </ul>
 
-          </div> <!-- fin tabs-content -->
-        </div> <!-- fin .tabsModules -->
-      </div>
+        </div> <!-- fin tabs-content -->
+      </div> <!-- fin .tabsModules -->
+    </div>
 
     </div>
   </center>
