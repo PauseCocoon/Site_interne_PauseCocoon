@@ -24,7 +24,7 @@
           <p>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p><br>
           <p>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
 
-          <div class="row mt-4">
+         <div class="row mt-4">
             <div class="col-4 mt-4">
               <iframe width="350px" height="350px" src="https://www.youtube.com/embed/lAOp-4uXqrY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               <p>Video 1</p>
@@ -37,7 +37,20 @@
               <iframe width="350px" height="350px" src="https://www.youtube.com/embed/D8PhglSB6hI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               <p>Video 3</p>
             </div>
+            <div class="col-4 mt-4">
+              <iframe width="350px" height="350px" src="https://www.youtube.com/embed/lAOp-4uXqrY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Video 4</p>
+            </div>
+            <div class="col-4 mt-4">
+              <iframe width="350px" height="350px" src="https://www.youtube.com/embed/pdtMUgnmRa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Video 5</p>
+            </div>
+            <div class="col-4 mt-4">
+              <iframe width="350px" height="350px" src="https://www.youtube.com/embed/D8PhglSB6hI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <p>Video 6</p>
+            </div>
           </div>
+
 
         </div>
 
