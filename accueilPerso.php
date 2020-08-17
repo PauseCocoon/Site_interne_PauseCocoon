@@ -532,7 +532,7 @@ if (!isset($_SESSION['pseudo'])) {
 
 
                 <div class="cell"> <a href="Capsules\Glitch\tuto2\Video_intro.php">
-                    <img src="">
+                    <img src="images/Glitch.png">
                     <div class="trait"></div>
                     <h4>
                       <p> Glitch 2 </p>
@@ -541,7 +541,7 @@ if (!isset($_SESSION['pseudo'])) {
                 </div>
 
                 <div class="cell"> <a href="Capsules\Glitch\tuto3\Video_intro.php">
-                    <img src="">
+                    <img src="images/Glitch.png">
                     <div class="trait"></div>
                     <h4>
                       <p> Glitch 3 </p>
