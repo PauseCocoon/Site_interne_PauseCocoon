@@ -525,7 +525,7 @@ if (!isset($_SESSION['pseudo'])) {
                     <img src="images/Glitch.png">
                     <div class="trait"></div>
                     <h4>
-                      <p> Titre </p>
+                      <p> Glitch 1 </p>
                     </h4>
                   </a>
                 </div>
@@ -535,7 +535,7 @@ if (!isset($_SESSION['pseudo'])) {
                     <img src="">
                     <div class="trait"></div>
                     <h4>
-                      <p> Titre </p>
+                      <p> Glitch 2 </p>
                     </h4>
                   </a>
                 </div>
@@ -544,7 +544,7 @@ if (!isset($_SESSION['pseudo'])) {
                     <img src="">
                     <div class="trait"></div>
                     <h4>
-                      <p> Titre </p>
+                      <p> Glitch 3 </p>
                     </h4>
                   </a>
                 </div>
