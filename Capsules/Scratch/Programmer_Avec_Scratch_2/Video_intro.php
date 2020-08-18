@@ -23,8 +23,9 @@
 
           <iframe width="500px" height="500px" src="https://www.powtoon.com/embed/fLTTiUf9MX4/" frameborder="0" allowfullscreen></iframe>
 
-          <p>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p><br>
+          <p> XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p><br>
           <p>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
+           <p> Voici mon texte </p>
 
         </div>
 
