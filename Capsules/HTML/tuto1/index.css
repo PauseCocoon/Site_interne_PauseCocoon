@@ -1,0 +1,19 @@
+img{
+	border: 1px solid black;
+}
+
+.cache{
+	display: none;
+}
+
+.cen{
+	margin-top: 8em;
+}
+
+
+#quizz{
+	border: 1px solid red;
+	text-align: center;
+	height: 50%;
+}
+
