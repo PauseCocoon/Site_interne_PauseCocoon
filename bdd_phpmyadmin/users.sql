@@ -46,7 +46,7 @@ INSERT INTO `users` (`id`, `nom`, `prenom`, `pseudo`, `email`, `mdp`, `score`, `
 (2, 'Hu', 'Linda', 'Cece', 'linda.hu25@gmail.com', '$2y$12$KgaXq4SskypR6qZlmYqgDelyfsuQcqKC9K2b6bt1h8X4wKd2r1DmW', 0, '2020-05-04 17:15:22'),
 (6, 'Hu', 'Rosaline', 'rrr', 'rosaline.hu9@gmail.com', '$2y$12$q2ANvDtwG.G6LoSXMWCFZepWt4S6YsIlPXAzJrjcsJAkW8.j9Doru', 0, '2020-05-05 13:23:46'),
 (7, 'Hu', 'Linda', 'Cece12', 'linda.hu25@gmail.com', '$2y$12$zNFaUJ6kPfFjJOy9KjFEkORKuJBC3ctL.De0R3G.bNDVKmOD15lvC', 0, '2020-05-06 15:36:56'),
-(8, 'toto', 'titi', 'admin', 'linda.hu25@gmail.com', '$2y$12$PGYYnpg7U8nbp0.2t67Vke5X7kyc2ZaFivS.SYpiVGdMtCa5GX.Y.', 100, '2020-05-06 15:40:50');
+(8, 'animateur', 'animateur', 'animateur', 'contact@pause-cocoon.fr', '$2y$12$NwxNJoJOj4DgejdEsPsC8eVn0gluSHp9FGoYeNe6bk9Bur8mIp0sm', 100, '2020-08-18 14:38:50');
 
 --
 -- Index pour les tables déchargées
