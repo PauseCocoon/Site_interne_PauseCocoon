@@ -4,7 +4,7 @@
 
 <head>
 
-  <title> Programmer avec HTML 1 </title>
+  <title> Programmer avec HTML 3 </title>
   <link rel="stylesheet" type="text/css" href="../../../Ressources_css/cubetto_prehistoire.css">
   <link rel="stylesheet" type="text/css" href="../../Ressources_css/css.css">
   <link rel="stylesheet" type="text/css" href="../../../Ressources_css/menunavigation.css">
@@ -16,7 +16,7 @@
     <center>
 
       <div id="contenu_droite">
-        <h2> Programmer avec HTML 1</h2>
+        <h2> Programmer avec HTML 3</h2>
         <div class="trait"> </div>
 
         <div class="container">
