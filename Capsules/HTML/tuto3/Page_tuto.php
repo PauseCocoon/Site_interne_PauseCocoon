@@ -4,7 +4,7 @@
 
 <head>
 
-  <title> Programmer avec Glitch 3 </title>
+  <title> Programmer avec HTML 3 </title>
   <link rel="stylesheet" type="text/css" href="../../../Ressources_css/cubetto_prehistoire.css">
   <link rel="stylesheet" type="text/css" href="../../Ressources_css/css.css">
   <link rel="stylesheet" type="text/css" href="../../../Ressources_css/menunavigation.css">
@@ -16,7 +16,7 @@
     <center>
 
       <div id="contenu_droite">
-        <h2> Programmer avec Glitch 3</h2>
+        <h2> Programmer avec HTML 3</h2>
         <div class="trait"> </div>
 
         <div class="container">
@@ -59,7 +59,7 @@
         <div class="choix">
 
           <div class="lecon_prece">
-            <a href="ProgrammerAvecGlitch.php">  <b> < </b> Leçon précédente </a>
+            <a href="ProgrammerAvecHTML.php">  <b> < </b> Leçon précédente </a>
           </div>
 
         </div>

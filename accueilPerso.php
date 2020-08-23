@@ -398,6 +398,7 @@ if (!isset($_SESSION['pseudo'])) {
             <li data-tab-target="#scratchjr" class="tab"> Scratch Junior </a></li>
             <li data-tab-target="#scratch" class="tab"> Scratch </a></li>
             <li data-tab-target="#cubetto" class="tab"> Cubetto </a></li>
+            <li data-tab-target="#html" class="tab"> HTML </a></li>
             <li data-tab-target="#glitch" class="tab"> Glitch </a></li>
             <li data-tab-target="#thunkable" class="tab"> Thunkable </a></li>
           </ul>
@@ -519,6 +520,38 @@ if (!isset($_SESSION['pseudo'])) {
               </div>
             </div>
 
+            <div id="html" data-tab-content>
+              <div class="box">
+                <div class="cell"> <a href="Capsules\HTML\tuto1\index.php">
+                    <img src="images/">
+                    <div class="trait"></div>
+                    <h4>
+                      <p> HTML 1 </p>
+                    </h4>
+                  </a>
+                </div>
+
+
+                <div class="cell"> <a href="Capsules\HTML\tuto2\Video_intro.php">
+                    <img src="images/">
+                    <div class="trait"></div>
+                    <h4>
+                      <p> HTML 2 </p>
+                    </h4>
+                  </a>
+                </div>
+
+                <div class="cell"> <a href="Capsules\HTML\tuto3\Video_intro.php">
+                    <img src="images/">
+                    <div class="trait"></div>
+                    <h4>
+                      <p> HTML 3 </p>
+                    </h4>
+                  </a>
+                </div>
+              </div> <!-- fin .box -->
+            </div> <!-- fin #html -->
+
             <div id="glitch" data-tab-content>
               <div class="box">
                 <div class="cell"> <a href="Capsules\Glitch\tuto1\Video_intro.php">
@@ -532,7 +565,7 @@ if (!isset($_SESSION['pseudo'])) {
 
 
                 <div class="cell"> <a href="Capsules\Glitch\tuto2\Video_intro.php">
-                    <img src="">
+                    <img src="images/Glitch.png">
                     <div class="trait"></div>
                     <h4>
                       <p> Glitch 2 </p>
@@ -541,7 +574,7 @@ if (!isset($_SESSION['pseudo'])) {
                 </div>
 
                 <div class="cell"> <a href="Capsules\Glitch\tuto3\Video_intro.php">
-                    <img src="">
+                    <img src="images/Glitch.png">
                     <div class="trait"></div>
                     <h4>
                       <p> Glitch 3 </p>
