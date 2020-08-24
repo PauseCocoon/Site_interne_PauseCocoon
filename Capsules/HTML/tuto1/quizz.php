@@ -1,27 +1,20 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Accueil</title>
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-		<link rel="stylesheet" href="index.css"/>
+	    <title>Accueil</title>
+	    <link rel="stylesheet" type="text/css" href="../../../Ressources_css/cubetto_prehistoire.css">
+	    <link rel="stylesheet" type="text/css" href="../../Ressources_css/css.css">
+	    <link rel="stylesheet" type="text/css" href="../../../Ressources_css/menunavigation.css">
+	    <link rel="stylesheet" type="text/css" href="index.css">
+	    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css" integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous">
+	    <link rel="stylesheet" href="index.css"/>
+	    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	    <?php include'../../../menunavigationPersoScratch_Junior.php';?>
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 		<script src="quizz.js"></script>
 	</head>
   
 	<body>
-  
-		<nav class="navbar navbar-inverse">
-		  <div class="container-fluid">
-			<div class="navbar-header">
-			  <a class="navbar-brand" style="font-style: italic;">Pause cocoon</a>
-			</div>
-			<ul class="nav navbar-nav">
-			  <li><a href="#">A propos du site</a></li>
-			  <li><a href="../index.html">Accueil</a></li>
-			</ul>
-		  </div>
-		</nav>
-	
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-offset-1 col-lg-11">
@@ -33,9 +26,9 @@
 							<div id="1" class="cen">
 								<label>Comment écrit-on du code HTML ?</label><br>
 								
-								<input type="radio" name="q1" value="r1"/> &lt;nom de la balise&gt; contenu de la balise &lt;/nom de la balise&gt;<br>
-								<input type="radio" name="q1" value="r2"/> &lt;nom de la balise&gt; contenu de la balise &lt;nom de la balise&gt;<br>
-								<input type="radio" name="q1" value="r3"/>&lt;/nom de la balise&gt; contenu de la balise &lt;/nom de la balise&gt;<br>
+								<input type="radio" name="q1" value="r1"/>	&lt;nom de la balise&gt; contenu de la balise &lt;/nom de la balise&gt;<br>
+								<input type="radio" name="q1" value="r2"/>	&lt;nom de la balise&gt; contenu de la balise &lt;nom de la balise&gt;<br>
+								<input type="radio" name="q1" value="r3"/>	&lt;/nom de la balise&gt; contenu de la balise &lt;/nom de la balise&gt;<br>
 								<input type="hidden" name="h1" value="r1"/>
 								<br>
 								
@@ -123,7 +116,7 @@
 							
 							<!-- 8 -->
 							<div id="8" class="cache cen">
-								<label>Quella balise représente l'entête d'un tableau ?</label><br>
+								<label>Quelle balise représente l'entête d'un tableau ?</label><br>
 								
 								<input type="radio" name="q8" value="r1"/>&lt;td&gt;<br>
 								<input type="radio" name="q8" value="r2"/>&lt;th&gt;<br>
@@ -136,7 +129,7 @@
 							
 							<!-- 9 -->
 							<div id="9" class="cache cen">
-								<label>Quella balise représente une case d'un tableau ?</label><br>
+								<label>Quelle balise représente une case d'un tableau ?</label><br>
 								
 								<input type="radio" name="q9" value="r1"/>&lt;tr&gt;<br>
 								<input type="radio" name="q9" value="r2"/>&lt;th&gt;<br>
