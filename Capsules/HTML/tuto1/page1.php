@@ -69,7 +69,7 @@
                 
                 <img src="../../../images/HTML/tuto1/capture.png"><br/><br/>
                 
-                <a href="exemple.html">Cliquez ici pour voir le resultat </a><br/>
+                <a href="exemples/exemple1.html">Cliquez ici pour voir le resultat </a><br/>
                 
                 
               </p>
@@ -86,9 +86,9 @@
         <div style="margin-top: 2em;" class="panel panel-primary col-lg-3">
           <div class="panel-body">
             <ul>
-              <li><a href="index.php">Qu'est ce que le HTML ?</a></li>
-              <li><a href="suite.php">Les éléments de base du html</a></li>
-              <li><a href="suite2.php">Autres éléments du HTML</a></li>
+              <li><a href="page1.php">Qu'est ce que le HTML ?</a></li>
+              <li><a href="page2.php">Les éléments de base du html</a></li>
+              <li><a href="page3.php">Autres éléments du HTML</a></li>
               <li><a href="quizz.php">Quizz sur le HTML</a></li>       
             </ul>
             
