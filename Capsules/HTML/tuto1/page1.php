@@ -78,7 +78,7 @@
               <p>Cette première page servant d'introduction est maintenant terminé, la prochaine page detaillera des balises que l'on peut utiliser en HTML</p>
               
               
-              <br/><a href="suite.php">Aller à la page suivante</a>
+              <br/><a href="page2.php">Aller à la page suivante</a>
             </p>
           </div>
         </div>
