@@ -1,0 +1,45 @@
+.capture{
+	border: 1px solid black;
+	width: 330px;
+	height: 240px;
+}
+
+#fleche{	/*id qui a pour nom fleche*/
+	width: 50px;
+	height: 50px;
+}
+
+.capture2{	/*classe qui a pour nom capture2*/
+	width: 50%
+}
+
+.big{
+	width: 1200px;
+}
+
+table
+{
+	background-color: red; /*La couleur de fond d'un tableau deviendra rouge*/
+}
+
+.cache{
+	display: none;
+}
+
+.cen{
+	margin-top: 8em;
+}
+
+
+#quizz{
+	border: 1px solid red;
+	text-align: center;
+	height: 50%;
+}
+
+#p{
+	margin-left: 50px;		/*On ajoute une marge à gauche du paragraphe de 50 pixels*/
+	margin-right: 50px;		/*On ajoute une marge à droite du paragraphe de 50 pixels*/
+	margin-top: 50px;		/*On ajoute une marge en faut du paragraphe de 50 pixels*/
+	margin-bottom: 50px;	/*On ajoute une marge en bas du paragraphe de 50 pixels*/
+}

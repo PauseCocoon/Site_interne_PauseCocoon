@@ -523,29 +523,29 @@ if (!isset($_SESSION['pseudo'])) {
             <div id="html" data-tab-content>
               <div class="box">
                 <div class="cell"> <a href="Capsules\HTML\tuto1\page1.php">
-                    <img src="images/HTML/debutant.png">
+                    <img src="images/HTML/html.jpg">
                     <div class="trait"></div>
                     <h4>
-                      <p> HTML 1 </p>
+                      <p> Débutant </p>
                     </h4>
                   </a>
                 </div>
 
 
-                <div class="cell"> <a href="Capsules\HTML\tuto2\Video_intro.php">
-                    <img src="images/">
+                <div class="cell"> <a href="Capsules\HTML\tuto2\page1.php">
+                    <img src="images/HTML/intermediaire.png">
                     <div class="trait"></div>
                     <h4>
-                      <p> HTML 2 </p>
+                      <p> Intermédiaire </p>
                     </h4>
                   </a>
                 </div>
 
-                <div class="cell"> <a href="Capsules\HTML\tuto3\Video_intro.php">
-                    <img src="images/">
+                <div class="cell"> <a href="Capsules\HTML\tuto3\page1.php">
+                    <img src="images/HTML/avance.jpg">
                     <div class="trait"></div>
                     <h4>
-                      <p> HTML 3 </p>
+                      <p> Avancé </p>
                     </h4>
                   </a>
                 </div>
