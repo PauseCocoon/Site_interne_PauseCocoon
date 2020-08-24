@@ -523,7 +523,7 @@ if (!isset($_SESSION['pseudo'])) {
             <div id="html" data-tab-content>
               <div class="box">
                 <div class="cell"> <a href="Capsules\HTML\tuto1\page1.php">
-                    <img src="images/">
+                    <img src="images/HTML/debutant.png">
                     <div class="trait"></div>
                     <h4>
                       <p> HTML 1 </p>

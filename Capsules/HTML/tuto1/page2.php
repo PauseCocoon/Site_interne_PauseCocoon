@@ -75,7 +75,7 @@
 						
 						<p>La prochaine page traitera d'autres éléments du html comme les listes, les tableaux ou encore les liens entre pages web, on expliquera aussi l'utilité des éléments div et span</p>
 						
-						<a href="suite2.html">Page suivante</a>
+						<a href="page3.php">Page suivante</a>
 					</div>
 				</div>
 				
