@@ -30,7 +30,7 @@
 						<img id="fleche" src="../../../images/HTML/tuto2/fleche.png"></img>
 						<img class="capture" src="../../../images/HTML/tuto2/capture.png"></img><br><br>
 						
-						<p>Le CSS a été créé en 1996 est connait plusieurs évolutions comme le HTML, la plupart des sites utilise la version 3 du CSS </p><br>
+						<p>Le CSS a été créé en 1996 est connait plusieurs évolutions comme le HTML, la plupart des sites utilise la version 3 du CSS.</p><br>
 						
 						<h2>Où est-ce que l'on écrit le code CSS ?</h2><br><br>
 						
@@ -42,7 +42,7 @@
 						
 						<strong>Il faut du coup creer un fichier, mettre du code dedans puis enregrister le fichier en mettant comme extention ".css"</strong>
 						
-						<h2>Exemple d'utilisation</h2><br><br>
+						<br><br><h2>Exemple d'utilisation</h2><br><br>
 						
 						<p>
 							Pour mieux comprendre les principes de ce langage, nous allons voir le code HTML (image de gauche) et CSS (image de droite) de l'image que je vous ai montré en haut

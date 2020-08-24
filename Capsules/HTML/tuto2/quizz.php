@@ -1,27 +1,20 @@
 <html>
 	<head>
-		<meta charset="utf-8"/>
-		<title>Accueil</title>
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-		<link rel="stylesheet" href="index.css"/>
-		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+		<meta charset="UTF-8">
+		<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+	    <title>Accueil</title>
+	    <link rel="stylesheet" type="text/css" href="../../../Ressources_css/cubetto_prehistoire.css">
+	    <link rel="stylesheet" type="text/css" href="../../Ressources_css/css.css">
+	    <link rel="stylesheet" type="text/css" href="../../../Ressources_css/menunavigation.css">
+	    <link rel="stylesheet" type="text/css" href="index.css">
+	    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css" integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous">
+	    <link rel="stylesheet" href="index.css"/>
+	    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	    <?php include'../../../menunavigationPersoScratch_Junior.php';?>
 		<script src="quizz.js"></script>
 	</head>
   
-	<body>
-  
-		<nav class="navbar navbar-inverse">
-		  <div class="container-fluid">
-			<div class="navbar-header">
-			  <a class="navbar-brand" style="font-style: italic;">Pause cocoon</a>
-			</div>
-			<ul class="nav navbar-nav">
-			  <li><a href="#">A propos du site</a></li>
-			  <li><a href="../index.html">Accueil</a></li>
-			</ul>
-		  </div>
-		</nav>
-	
+	<body>	
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-offset-1 col-lg-11">

@@ -1,30 +1,23 @@
 
 <html>
 	<head>
-		<meta charset="utf-8">
-		<title>Accueil</title>
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-		<link rel="stylesheet" href="index.css"/>
-		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+		<meta charset="UTF-8">
+		<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+	    <title>Accueil</title>
+	    <link rel="stylesheet" type="text/css" href="../../../Ressources_css/cubetto_prehistoire.css">
+	    <link rel="stylesheet" type="text/css" href="../../Ressources_css/css.css">
+	    <link rel="stylesheet" type="text/css" href="../../../Ressources_css/menunavigation.css">
+	    <link rel="stylesheet" type="text/css" href="index.css">
+	    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css" integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous">
+	    <link rel="stylesheet" href="index.css"/>
+	    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	    <?php include'../../../menunavigationPersoScratch_Junior.php';?>
 	</head>
   
 	<body>
-  
-		<nav class="navbar navbar-inverse">
-		  <div class="container-fluid">
-			<div class="navbar-header">
-			  <a class="navbar-brand" style="font-style: italic;">Pause cocoon</a>
-			</div>
-			<ul class="nav navbar-nav">
-			  <li><a href="#">A propos du site</a></li>
-			  <li><a href="../index.html">Accueil</a></li>
-			</ul>
-		  </div>
-		</nav>
-		
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-offset-1 col-lg-8">
+				<div class="col-lg-offset-1 col-lg-10">
 					<div class="panel-body">
 						<h1>Les identifiants et classes</h1><br><br>
 					
@@ -48,18 +41,18 @@
 						
 						<strong>Attention : dans un fichier CSS pour pouvoir déclarer un id il faut écrire #Nom_de_l'ID à la place du nom de l'élément HTML</strong><br>
 						
-						<img src="id.png"></img><br><br>
+						<img src="../../../images/HTML/tuto2/id.png"></img><br><br>
 						
 						<p>Exemple : </p>
 						
 						<p>Reprenons l'exemple du tableau des scores de la coupe de monde</p><br>
 						
-						<img class="big" src="capture9.png"></img><br><br>
+						<img class="big" src="../../../images/HTML/tuto2/capture9.png"></img><br><br>
 						
-						<img src="capture10.png"></img><br><br>
+						<img src="../../../images/HTML/tuto2/capture10.png"></img><br><br>
 						<p>Resultat : </p>
 						
-						<img src="capture11.png"></img>
+						<img src="../../../images/HTML/tuto2/capture11.png"></img>
 						
 						
 						<h3>Les classes</h3><br><br>
@@ -72,28 +65,28 @@
 						
 						<strong>Attention : dans un fichier CSS pour pouvoir déclarer une classe il faut écrire .Nom_de_la_classe à la place du nom de l'élément HTML</strong><br>
 						
-						<img src="class.png"></img><br><br>
+						<img src="../../../images/HTML/tuto2/class.png"></img><br><br>
 						
 						<p>Exemple : </p>
 						
-						<img class="big" src="capture12.png"></img><br><br>
+						<img class="big" src="../../../images/HTML/tuto2/capture12.png"></img><br><br>
 						
-						<img class="big" src="capture13.png"></img><br><br>
+						<img class="big" src="../../../images/HTML/tuto2/capture13.png"></img><br><br>
 						<p>Resultat : </p>
 						
-						<img src="capture14.png"></img>
+						<img src="../../../images/HTML/tuto2/capture14.png"></img>
 						
 						
 					</div>
 				</div>
 				
-				<div style="margin-top: 2em;" class="panel panel-primary col-lg-3">
+				<div style="margin-top: 2em;" class="panel panel-primary col-lg-2">
 					<div class="panel-body">
 						<ul>
-							<li><a href="index.html">Qu'est ce que le CSS ?</a></li>
-							<li><a href="suite.html">Les éléments principaux du css</a></li>
-							<li><a href="suite2.html">Les identifiants et classes</a></li>
-							<li><a href="quizz.html">Quizz</a></li>
+							<li><a href="page1.php">Qu'est ce que le CSS ?</a></li>
+							<li><a href="page2.php">Les éléments principaux du css</a></li>
+							<li><a href="page3.php">Les identifiants et classes</a></li>
+							<li><a href="quizz.php">Quizz</a></li>
 						</ul>
 						
 						

@@ -1,30 +1,23 @@
 
 <html>
 	<head>
-		<meta charset="utf-8"/>
-		<title>Accueil</title>
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-		<link rel="stylesheet" href="index.css"/>
-		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+		<meta charset="UTF-8">
+		<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+	    <title>Accueil</title>
+	    <link rel="stylesheet" type="text/css" href="../../../Ressources_css/cubetto_prehistoire.css">
+	    <link rel="stylesheet" type="text/css" href="../../Ressources_css/css.css">
+	    <link rel="stylesheet" type="text/css" href="../../../Ressources_css/menunavigation.css">
+	    <link rel="stylesheet" type="text/css" href="index.css">
+	    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css" integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous">
+	    <link rel="stylesheet" href="index.css"/>
+	    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	    <?php include'../../../menunavigationPersoScratch_Junior.php';?>
 	</head>
   
-	<body>
-  
-		<nav class="navbar navbar-inverse">
-		  <div class="container-fluid">
-			<div class="navbar-header">
-			  <a class="navbar-brand" style="font-style: italic;">Pause cocoon</a>
-			</div>
-			<ul class="nav navbar-nav">
-			  <li><a href="#">A propos du site</a></li>
-			  <li><a href="../index.html">Accueil</a></li>
-			</ul>
-		  </div>
-		</nav>
-	
+	<body>	
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-offset-1 col-lg-8">
+				<div class="col-lg-offset-1 col-lg-10">
 					<div class="panel-body">
 						<h1>Les éléments principaux de css</h1><br><br>
 					
@@ -34,7 +27,7 @@
 						
 							<p>
 								La propriété permettant de changer la couleur du texte est "color". Cependant il n'existe que 16 couleurs standards correspondant : <br>
-								<img src="380399.png"></img>
+								<img src="../../../images/HTML/tuto2/380399.png"></img>
 								(Pour les traductions, Google est votre ami...)
 								<br>
 								
@@ -44,7 +37,7 @@
 								<strong>Vous pouvez heureusement contourner cette limite en indiquant la couleur d'une autre façon.<br></strong>
 								Pour cela, il existe la méthode rgb ou la méthode avec des valeurs héxadécimal (mais c'est un peu compliqué d'expliquer, Google est votre ami encore une fois...)<br>
 							
-								<img src="capture4.png"></img><br><br>
+								<img src="../../../images/HTML/tuto2/capture4.png"></img><br><br>
 							
 								Vous pouvez acceder à ce site qui permet de choisir une couleur (en héxadécimal) pour votre code css en cliquant sur <a href="https://www.w3schools.com/colors/colors_picker.asp">ce lien</a></p>
 						
@@ -55,13 +48,13 @@
 								le nom de la couleur que l'on veut
 							</p>
 							
-							<img src="capture5.png"></img>
+							<img src="../../../images/HTML/tuto2/capture5.png"></img>
 						
 						<h3>Les marges</h3>
 						
 							<p>Il est possible de décaler un élément par exemple à gauche ou encore à droite en ajoutant des marges</p>
 							
-							<img src="capture6.png"></img>
+							<img src="../../../images/HTML/tuto2/capture6.png"></img>
 						
 							<p></p>
 						
@@ -69,24 +62,25 @@
 						
 							<p>La propriété permettant de changer la couleur de fond est "border"</p>
 							
-							<img src="capture7.png"></img>
+							<img src="../../../images/HTML/tuto2/capture7.png"></img>
 						
 						<h3>Les polices</h3>
 						
 							<p>Il est possible de changer la police d'un texte, par exemple sa taille ou encore son type</p>
 							
-							<img src="capture8.png"></img>
+							<img src="../../../images/HTML/tuto2/capture8.png"></img>
 						
 					</div>
+					<a href="page2.php">Cliquez ici pour passer à la page suivante</a>
 				</div>
 				
-				<div style="margin-top: 2em;" class="panel panel-primary col-lg-3">
+				<div style="margin-top: 2em;" class="panel panel-primary col-lg-2">
 					<div class="panel-body">
 						<ul>
-							<li><a href="index.html">Qu'est ce que le CSS ?</a></li>
-							<li><a href="suite.html">Les éléments principaux du css</a></li>
-							<li><a href="suite2.html">Les identifiants et classes</a></li>
-							<li><a href="quizz.html">Quizz</a></li>
+							<li><a href="page1.php">Qu'est ce que le CSS ?</a></li>
+							<li><a href="page2.php">Les éléments principaux du css</a></li>
+							<li><a href="page3.php">Les identifiants et classes</a></li>
+							<li><a href="quizz.php">Quizz</a></li>
 						</ul>
 						
 						
