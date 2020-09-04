@@ -69,9 +69,9 @@
 							<p>Il est possible de changer la police d'un texte, par exemple sa taille ou encore son type</p>
 							
 							<img src="../../../images/HTML/tuto2/capture8.png"></img>
-						
+							<a href="page3.php">Cliquez ici pour passer à la page suivante</a>
 					</div>
-					<a href="page2.php">Cliquez ici pour passer à la page suivante</a>
+					
 				</div>
 				
 				<div style="margin-top: 2em;" class="panel panel-primary col-lg-2">

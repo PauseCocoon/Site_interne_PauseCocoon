@@ -78,6 +78,7 @@
 						
 						
 					</div>
+					<a href="quizz.php">Cliquez ici pour passer à la page suivante</a>
 				</div>
 				
 				<div style="margin-top: 2em;" class="panel panel-primary col-lg-2">
